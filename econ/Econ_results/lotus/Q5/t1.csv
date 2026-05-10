@@ -1,0 +1,206 @@
+commodity_name,event_id
+Cocoa,E01
+Cocoa,E02
+Cocoa,E13
+Cocoa,E19
+Cocoa,E24
+"Coffee, Arabica",E02
+"Coffee, Arabica",E03
+"Coffee, Arabica",E04
+"Coffee, Arabica",E13
+"Coffee, Arabica",E19
+"Coffee, Arabica",E20
+"Coffee, Arabica",E24
+"Coffee, Robusta",E02
+"Coffee, Robusta",E13
+"Coffee, Robusta",E24
+"Tea, average",E24
+"Coal, Australia",E03
+"Coal, Australia",E06
+"Coal, Australia",E13
+"Coal, Australia",E15
+"Coal, Australia",E16
+"Coal, Australia",E17
+"Coal, Australia",E20
+"Coal, Australia",E24
+"Coal, South Africa",E03
+"Coal, South Africa",E15
+"Coal, South Africa",E16
+"Coal, South Africa",E17
+"Coal, South Africa",E20
+"Crude oil, average",E01
+"Crude oil, average",E02
+"Crude oil, average",E07
+"Crude oil, average",E08
+"Crude oil, average",E09
+"Crude oil, average",E15
+"Crude oil, average",E17
+"Crude oil, average",E18
+"Crude oil, average",E20
+"Crude oil, average",E21
+"Crude oil, Brent",E01
+"Crude oil, Brent",E02
+"Crude oil, Brent",E07
+"Crude oil, Brent",E08
+"Crude oil, Brent",E09
+"Crude oil, Brent",E10
+"Crude oil, Brent",E15
+"Crude oil, Brent",E17
+"Crude oil, Brent",E18
+"Crude oil, Brent",E20
+"Crude oil, Brent",E21
+"Crude oil, Dubai",E02
+"Crude oil, Dubai",E08
+"Crude oil, Dubai",E09
+"Crude oil, Dubai",E10
+"Crude oil, Dubai",E15
+"Crude oil, Dubai",E17
+"Crude oil, Dubai",E18
+"Crude oil, Dubai",E20
+"Crude oil, Dubai",E21
+DAP,E02
+DAP,E07
+DAP,E08
+DAP,E15
+DAP,E17
+DAP,E18
+DAP,E19
+DAP,E20
+DAP,E22
+DAP,E24
+Phosphate rock,E14
+Phosphate rock,E20
+Phosphate rock,E22
+Potassium chloride,E02
+Potassium chloride,E07
+Potassium chloride,E08
+Potassium chloride,E17
+Potassium chloride,E20
+Potassium chloride,E22
+Barley,E02
+Barley,E03
+Barley,E06
+Barley,E08
+Barley,E16
+Barley,E17
+Barley,E20
+Barley,E22
+Barley,E24
+Maize,E02
+Maize,E04
+Maize,E06
+Maize,E08
+Maize,E11
+Maize,E13
+Maize,E17
+Maize,E19
+Maize,E20
+Maize,E22
+Maize,E24
+"Rice, Thailand 5%",E02
+"Rice, Thailand 5%",E06
+"Rice, Thailand 5%",E13
+"Rice, Thailand 5%",E20
+"Rice, Thailand 5%",E24
+"Rice, Thailand 25%",E02
+"Rice, Thailand 25%",E12
+"Rice, Thailand 25%",E20
+"Rice, Thailand A1",E06
+"Rice, Thailand A1",E12
+"Rice, Thailand A1",E13
+"Rice, Thailand A1",E22
+"Rice, Thailand A1",E24
+Aluminum,E02
+Aluminum,E06
+Aluminum,E08
+Aluminum,E10
+Aluminum,E15
+Aluminum,E17
+Aluminum,E20
+Copper,E02
+Copper,E08
+Copper,E10
+Copper,E15
+Copper,E16
+Copper,E17
+Copper,E20
+Copper,E21
+Copper,E23
+Iron ore,E08
+Iron ore,E10
+Iron ore,E15
+Iron ore,E20
+Lead,E15
+Coconut oil,E02
+Coconut oil,E13
+Coconut oil,E24
+Fish meal,E04
+Fish meal,E10
+Fish meal,E13
+Fish meal,E24
+Groundnuts,E02
+Groundnuts,E19
+Groundnuts,E20
+Groundnuts,E24
+Groundnut oil,E02
+Groundnut oil,E19
+Groundnut oil,E20
+Palm oil,E02
+Palm oil,E13
+Palm oil,E20
+Palm oil,E24
+"Bananas, EU",E02
+"Bananas, EU",E04
+"Bananas, EU",E06
+"Bananas, EU",E13
+"Bananas, EU",E19
+"Bananas, EU",E20
+"Bananas, EU",E24
+"Bananas, U.S.",E03
+"Bananas, U.S.",E13
+Beef,E02
+Beef,E03
+Beef,E10
+Beef,E13
+Beef,E17
+Beef,E20
+Beef,E24
+Chicken,E03
+Chicken,E05
+Chicken,E20
+Chicken,E22
+Lamb,E02
+Lamb,E10
+Lamb,E24
+Cotton,E10
+Cotton,E13
+Cotton,E15
+Cotton,E19
+Cotton,E20
+Cotton,E24
+"Rubber, RSS3",E10
+"Rubber, RSS3",E13
+"Rubber, RSS3",E15
+"Rubber, RSS3",E20
+"Rubber, RSS3",E24
+Gold,E01
+Gold,E02
+Gold,E08
+Gold,E10
+Gold,E15
+Gold,E17
+Gold,E18
+Gold,E20
+Platinum,E02
+"Logs, Africa",E02
+"Logs, Africa",E19
+"Logs, Africa",E20
+"Logs, S.E. Asia",E02
+"Logs, S.E. Asia",E13
+"Logs, S.E. Asia",E24
+Plywood,E02
+Plywood,E08
+Plywood,E15
+Plywood,E17
+Plywood,E20
+Plywood,E24

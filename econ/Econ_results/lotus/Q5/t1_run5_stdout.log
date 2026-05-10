@@ -1,0 +1,22 @@
+2026-04-26 05:09:30,467 - INFO - Use pytorch device_name: cuda
+2026-04-26 05:09:30,468 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+/mnt/e/Semantic Operators/SemBench/my_benchmark/econ/runner/lotus_r_Q5_t1.py:86: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  .apply(lambda g: g.iloc[: (len(g) + 1) // 2])
+[t1] Q5 | all | approximate (recall=0.8, precision=0.8)
+Commodities: 68, Events: 24
+STRAT_HALF size: 38
+Cross-joined pairs: 912
+
+Running helper LM:   0%|           0/912 LM calls [00:00<?, ?it/s]Running helper LM: 100%|██████████ 912/912 LM calls [02:23<00:00,  6.37it/s]Running helper LM: 100%|██████████ 912/912 LM calls [02:23<00:00,  6.37it/s]
+Running oracle for threshold learning:   0%|           0/91 LM calls [00:00<?, ?it/s]Running oracle for threshold learning: 100%|██████████ 91/91 LM calls [00:18<00:00,  4.90it/s]Running oracle for threshold learning: 100%|██████████ 91/91 LM calls [00:18<00:00,  4.90it/s]
+2026-04-26 05:12:13,670 - INFO - Sample recall: 1.0
+2026-04-26 05:12:13,670 - INFO - Sample precision: 1.0
+2026-04-26 05:12:13,671 - INFO - Learned cascade thresholds: (0.96, 0.22)
+2026-04-26 05:12:13,671 - INFO - Num routed to smaller model: 257
+Running predicate evals with oracle LM:   0%|           0/655 LM calls [00:00<?, ?it/s]Running predicate evals with oracle LM: 100%|██████████ 655/655 LM calls [02:05<00:00,  5.22it/s]Running predicate evals with oracle LM: 100%|██████████ 655/655 LM calls [02:05<00:00,  5.22it/s]
+  -> 205 matched
+  stats: {'pos_cascade_threshold': 0.96, 'neg_cascade_threshold': 0.22, 'filters_resolved_by_helper_model': 257, 'filters_resolved_by_large_model': 655, 'num_routed_to_helper_model': 257}
+  calls_by_model: {'?': 1658, 'gpt-4o-mini': 912, 'gpt-5.4': 746}
+
+P=0.8585  R=0.7213  F1=0.7839
+Saved -> my_benchmark/econ/results/lotus/Q5/t1.csv (287.26s)

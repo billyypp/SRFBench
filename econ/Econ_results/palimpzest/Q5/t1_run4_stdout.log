@@ -1,0 +1,28 @@
+/mnt/e/Semantic Operators/SemBench/my_benchmark/econ/runner/pz_r_Q5_t1.py:38: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  .apply(lambda g: g.iloc[: (len(g) + 1) // 2])
+PATCHED: All models kept in frontier, no Pareto pruning
+[pz] Q5 econ | STRAT_HALF=38 events=24 pairs=912
+
+╭───────────────────────────── Sample Allocation ──────────────────────────────╮
+│                                                                              │
+│  ⠋ MarshalAndScanDataOp (0-47ca0a1bca) ━━━━━━━   0% 0/0     Cost: $0.0000    │
+│    LLMFilter (1-f248595dd9)            ━━━━━━━ 100% 104/100 Cost: $0.1223    │
+│  ⠋ ProjectOp (2-5eb566282c)            ━━━━━━━   0% 0/0     Cost: $0.0000    │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────── Optimization Progress ────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│     ━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 104/100 0:00:54 0:00:00 Cost: $0.1226    │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯Total opt. time: 56.78s
+Total opt. cost: $0.1223
+
+  MarshalAndScanDataOp (6e1b795ec5) ━━━━━ 100% 912/… 0:00… 0:00… Cost: $0.0000 
+  LLMFilter (42605d68a7)            ━━━━━ 100% 912/… 0:00… 0:00… Cost: $0.0341 
+  ProjectOp (acc9618136)            ━━━━━ 100% 223/… 0:00… 0:00… Cost: $0.0000 
+Total time: 37.43s
+Total cost: $0.0341
+[pz] Q5 elapsed=94.7s tokens=533346 cost=$0.1567 llm=912
+[pz] Q5 P=0.5291 R=0.4836 F1=0.5053 rows=223

@@ -1,0 +1,16 @@
+{
+  "test_id": "nano41",
+  "query": "Q3",
+  "scenario": "paper",
+  "system": "palimpzest",
+  "model_name": "openai/gpt-4.1-nano-2025-04-14",
+  "policy": "MaxQuality (single model)",
+  "execution_time": 10.69,
+  "llm_calls_total": 500,
+  "tokens": 324820,
+  "cost_usd": 0.032932,
+  "precision": 0.1429,
+  "recall": 0.0286,
+  "f1_score": 0.0477,
+  "row_count": 7
+}

@@ -1,0 +1,8 @@
+{
+  "llm_calls_total": 127,
+  "lotus_stats": {
+    "total_tokens": 29313,
+    "total_llm_calls": 127,
+    "explanations": {}
+  }
+}

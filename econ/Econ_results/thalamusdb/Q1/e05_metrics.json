@@ -1,0 +1,28 @@
+{
+  "test_id": "e05",
+  "query": "Q1",
+  "event_id": "E08_test",
+  "system": "thalamusdb",
+  "model_name": "gpt_5_4",
+  "policy": "max_error=0.5",
+  "reasoning_effort": null,
+  "constraints": {
+    "max_calls": 10000000,
+    "max_tokens": 10000000,
+    "max_seconds": 3600,
+    "max_error": 0.5,
+    "max_cost_usd": null,
+    "f1_floor": null
+  },
+  "execution_time": 41.14,
+  "tokens": 2777,
+  "cost_usd": 0.020866,
+  "llm_calls_total": 3,
+  "llm_calls_saved": null,
+  "precision": 0.9375,
+  "recall": 0.2419,
+  "f1_score": 0.3846,
+  "row_count": 16,
+  "status": "success",
+  "flags": []
+}

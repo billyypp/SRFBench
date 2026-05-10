@@ -1,0 +1,16 @@
+{
+  "test_id": "t1",
+  "query": "Q2",
+  "event_id": "E15",
+  "model_name": "gpt-4o",
+  "cascade": "embedding (recall=0.8, precision=0.8)",
+  "execution_time": 70.95,
+  "llm_calls_total": 264,
+  "llm_calls_to_main_lm": 127,
+  "llm_calls_saved": 137,
+  "llm_calls_calibration": 63,
+  "precision": 0.8,
+  "recall": 0.4,
+  "f1_score": 0.5333,
+  "row_count": 10
+}

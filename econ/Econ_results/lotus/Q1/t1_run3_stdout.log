@@ -1,0 +1,36 @@
+2026-04-26 04:23:47,422 - INFO - Use pytorch device_name: cuda
+2026-04-26 04:23:47,423 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+2026-04-26 04:23:48,897 - WARNING - Do not reset the dataframe index to ensure proper functionality of get_vectors_from_index
+[t1] Q1 | E08 | approximate (recall=0.8, precision=0.8)
+Pairs: 68 x 24 = 1632
+
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  2.94it/s]100%|██████████| 1/1 [00:00<00:00,  2.94it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 41.20it/s]
+2026-04-26 04:23:49,314 - INFO - Sampled 163 out of 1632 helper join results.
+Running oracle for threshold learning:   0%|           0/163 LM calls [00:00<?, ?it/s]Running oracle for threshold learning: 100%|██████████ 163/163 LM calls [00:25<00:00,  6.51it/s]Running oracle for threshold learning: 100%|██████████ 163/163 LM calls [00:25<00:00,  6.51it/s]
+2026-04-26 04:24:14,403 - INFO - Sample recall: 0.7903225806451613
+2026-04-26 04:24:14,404 - INFO - Sample precision: 1.0
+2026-04-26 04:24:14,404 - INFO - Learned cascade thresholds: (0.7844403386116028, 0.749172568321228)
+Mapping examples:   0%|           0/68 LM calls [00:00<?, ?it/s]Mapping examples: 100%|██████████ 68/68 LM calls [00:20<00:00,  3.30it/s]Mapping examples: 100%|██████████ 68/68 LM calls [00:20<00:00,  3.30it/s]
+2026-04-26 04:24:35,014 - WARNING - Do not reset the dataframe index to ensure proper functionality of get_vectors_from_index
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  7.20it/s]100%|██████████| 1/1 [00:00<00:00,  7.18it/s]
+  0%|          | 0/2 [00:00<?, ?it/s] 50%|█████     | 1/2 [00:00<00:00,  3.64it/s]100%|██████████| 2/2 [00:00<00:00,  6.77it/s]
+2026-04-26 04:24:35,488 - INFO - Sampled 163 out of 1632 helper join results.
+Running oracle for threshold learning:   0%|           0/163 LM calls [00:00<?, ?it/s]Running oracle for threshold learning: 100%|██████████ 163/163 LM calls [00:23<00:00,  7.04it/s]Running oracle for threshold learning: 100%|██████████ 163/163 LM calls [00:23<00:00,  7.04it/s]
+2026-04-26 04:24:58,681 - INFO - Sample recall: 0.7419354838709677
+2026-04-26 04:24:58,682 - INFO - Sample precision: 1.0
+2026-04-26 04:24:58,682 - INFO - Learned cascade thresholds: (0.8106169104576111, 0.775733470916748)
+2026-04-26 04:24:58,685 - INFO - Join Optimizer: plan cost analysis:
+2026-04-26 04:24:58,685 - INFO -     Search-Filter: 714 LLM calls.
+2026-04-26 04:24:58,686 - INFO -     Search-Filter: accept 8 helper positive results, 910 helper negative results.
+2026-04-26 04:24:58,686 - INFO -     Map-Search-Filter: 1197 LLM calls.
+2026-04-26 04:24:58,687 - INFO -     Map-Search-Filter: accept 83 helper positive results, 352 helper negative results.
+2026-04-26 04:24:58,687 - INFO - Proceeding with Search-Filter
+Running predicate evals with oracle model:   0%|           0/714 LM calls [00:00<?, ?it/s]
+Filtering:   0%|           0/714 LM calls [00:00<?, ?it/s][A
+Filtering: 100%|██████████ 714/714 LM calls [01:42<00:00,  6.96it/s][AFiltering: 100%|██████████ 714/714 LM calls [01:42<00:00,  6.96it/s]
+Running predicate evals with oracle model: 100%|██████████ 714/714 LM calls [01:42<00:00,  6.95it/s]Running predicate evals with oracle model: 100%|██████████ 714/714 LM calls [01:42<00:00,  6.95it/s]
+  stats: {'join_resolved_by_helper_model': 918, 'join_helper_positive': 8, 'join_helper_negative': 910, 'join_resolved_by_large_model': 714, 'optimized_join_cost': 394, 'total_LM_calls': 1108}
+
+P=0.808  R=0.3769  F1=0.514
+Saved -> my_benchmark/econ/results/lotus/Q1/t1.csv (172.56s)

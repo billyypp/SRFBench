@@ -1,0 +1,16 @@
+{
+  "test_id": "gpt4o",
+  "query": "Q2",
+  "scenario": "logic",
+  "system": "palimpzest",
+  "model_name": "openai/gpt-4o-2024-08-06",
+  "policy": "MaxQuality (single model)",
+  "execution_time": 2.92,
+  "llm_calls_total": 100,
+  "tokens": 52236,
+  "cost_usd": 0.138165,
+  "precision": 0.6,
+  "recall": 0.6,
+  "f1_score": 0.6,
+  "row_count": 10
+}

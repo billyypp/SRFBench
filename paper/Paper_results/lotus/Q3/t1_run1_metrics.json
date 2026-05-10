@@ -1,0 +1,19 @@
+{
+  "test_id": "t1",
+  "query": "Q3",
+  "scenario": "paper",
+  "model_name": "gpt-5.4",
+  "policy": "approximate",
+  "cascade_recall_target": 0.8,
+  "cascade_precision_target": 0.8,
+  "execution_time": 110.39,
+  "llm_calls_total": 500,
+  "llm_calls_to_main_lm": 190,
+  "llm_calls_saved": 310,
+  "llm_calls_calibration": 550,
+  "cost_usd": 0.156009,
+  "precision": 0.5938,
+  "recall": 0.5429,
+  "f1_score": 0.5672,
+  "row_count": 32
+}

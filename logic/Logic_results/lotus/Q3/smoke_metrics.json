@@ -1,0 +1,15 @@
+{
+  "test_id": "smoke",
+  "query": "Q3",
+  "scenario": "logic",
+  "model_name": "gpt-5.4",
+  "policy": "exact",
+  "execution_time": 81.4,
+  "llm_calls_total": 100,
+  "llm_entailed_count": 7,
+  "gold_entailed_count": 61,
+  "precision": 1.0,
+  "recall": 0.1148,
+  "f1_score": 0.206,
+  "row_count": 7
+}

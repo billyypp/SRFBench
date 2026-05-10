@@ -1,0 +1,13 @@
+{
+  "test_id": "ground",
+  "query": "Q1",
+  "scenario": "paper",
+  "model_name": "gpt-5.4",
+  "policy": "exact",
+  "execution_time": 309.67,
+  "llm_calls_total": 1860,
+  "precision": 0.7222,
+  "recall": 0.9286,
+  "f1_score": 0.8125,
+  "row_count": 18
+}

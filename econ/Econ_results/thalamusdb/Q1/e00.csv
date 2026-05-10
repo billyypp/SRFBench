@@ -1,0 +1,17 @@
+commodity_name,factor_id
+"Wheat, U.S., HRW",F02
+"Crude oil, Brent",F21
+"Natural gas, Europe",F21
+Aluminum,F04
+"Crude oil, Brent",F12
+"Natural gas, Europe",F12
+"Wheat, U.S., HRW",F21
+Aluminum,F12
+Aluminum,F02
+"Crude oil, Brent",F04
+"Natural gas, Europe",F04
+"Wheat, U.S., HRW",F12
+Gold,F17
+"Wheat, U.S., HRW",F04
+Gold,F02
+"Tea, average",F02

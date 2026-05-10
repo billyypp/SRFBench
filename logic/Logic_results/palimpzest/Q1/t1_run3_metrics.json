@@ -1,0 +1,16 @@
+{
+  "test_id": "t1",
+  "query": "Q1",
+  "scenario": "logic",
+  "system": "palimpzest",
+  "model_name": "openai/gpt-5-2025-08-07, openai/gpt-5.4, openai/gpt-5-mini-2025-08-07, openai/gpt-5.4-mini, openai/gpt-5-nano-2025-08-07, openai/gpt-5.4-nano",
+  "policy": "MinCostAtFixedQuality(0.8)",
+  "execution_time": 139.38,
+  "llm_calls_total": 2600,
+  "tokens": 1555829,
+  "cost_usd": 0.197608,
+  "precision": 0.807,
+  "recall": 0.46,
+  "f1_score": 0.586,
+  "row_count": 57
+}

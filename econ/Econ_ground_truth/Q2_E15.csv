@@ -1,0 +1,21 @@
+commodity_name,factor_id,outcome_id,prediction_id
+Crude Oil,F02,EQ49,P02
+Crude Oil,F04,EQ49,P02
+Crude Oil,F08,EQ49,P02
+Crude Oil,F12,EQ49,P02
+Crude Oil,F13,EQ49,P02
+Crude Oil,F19,EQ49,P02
+Crude Oil,F21,EQ49,P02
+Gold,F04,EQ49,P02
+Gold,F08,EQ49,P02
+Gold,F19,EQ49,P02
+Gold,F21,EQ49,P02
+Manganese,F08,EQ49,P03
+Natural Gas,F02,EQ49,P02
+Natural Gas,F04,EQ49,P02
+Natural Gas,F08,EQ49,P02
+Natural Gas,F12,EQ49,P02
+Natural Gas,F19,EQ49,P02
+Natural Gas,F21,EQ49,P02
+Silver,F08,EQ49,P02
+Silver,F19,EQ49,P02

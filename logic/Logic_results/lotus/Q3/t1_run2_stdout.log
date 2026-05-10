@@ -1,0 +1,18 @@
+2026-04-26 12:41:18,997 - INFO - Use pytorch device_name: cuda
+2026-04-26 12:41:18,997 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+[t1] Logic Q3 | approximate (recall=0.8, precision=0.8)
+Cross-joined pairs: 900
+
+Running helper LM:   0%|           0/900 LM calls [00:00<?, ?it/s]Running helper LM: 100%|██████████ 900/900 LM calls [04:09<00:00,  3.60it/s]Running helper LM: 100%|██████████ 900/900 LM calls [04:09<00:00,  3.60it/s]
+Running oracle for threshold learning:   0%|           0/90 LM calls [00:00<?, ?it/s]Running oracle for threshold learning: 100%|██████████ 90/90 LM calls [00:15<00:00,  5.68it/s]Running oracle for threshold learning: 100%|██████████ 90/90 LM calls [00:15<00:00,  5.68it/s]
+2026-04-26 12:45:46,213 - INFO - Sample recall: 0.0
+2026-04-26 12:45:46,213 - INFO - Sample precision: 0.0
+2026-04-26 12:45:46,214 - INFO - Learned cascade thresholds: (1.0, 0)
+2026-04-26 12:45:46,214 - INFO - Num routed to smaller model: 1
+Running predicate evals with oracle LM:   0%|           0/899 LM calls [00:00<?, ?it/s]Running predicate evals with oracle LM: 100%|██████████ 899/899 LM calls [02:37<00:00,  5.70it/s]Running predicate evals with oracle LM: 100%|██████████ 899/899 LM calls [02:37<00:00,  5.70it/s]
+  -> 1 matched
+  stats: {'pos_cascade_threshold': 1.0, 'neg_cascade_threshold': 0, 'filters_resolved_by_helper_model': 1, 'filters_resolved_by_large_model': 899, 'num_routed_to_helper_model': 1}
+  calls_by_model: {'?': 1889, 'gpt-4o-mini': 900, 'gpt-5.4': 989}
+
+P=1.0  R=0.0025  F1=0.005
+Saved -> my_benchmark/logic/results/lotus/Q3/t1.csv (423.67s)

@@ -1,0 +1,311 @@
+2026-04-26 13:31:43,878 - INFO - Use pytorch device_name: cuda
+2026-04-26 13:31:43,879 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+[t1] Paper Q3 | approximate (recall=0.8, precision=0.8)
+Papers: 500
+
+Running helper LM:   0%|           0/500 LM calls [00:00<?, ?it/s]2026-04-26 13:32:24,844 - INFO - Retrying request to /chat/completions in 0.492337 seconds
+2026-04-26 13:32:25,609 - INFO - Retrying request to /chat/completions in 0.469002 seconds
+2026-04-26 13:32:26,019 - INFO - Retrying request to /chat/completions in 0.448603 seconds
+2026-04-26 13:32:26,042 - INFO - Retrying request to /chat/completions in 0.462366 seconds
+2026-04-26 13:32:26,224 - INFO - Retrying request to /chat/completions in 0.915155 seconds
+2026-04-26 13:32:26,225 - INFO - Retrying request to /chat/completions in 0.461919 seconds
+2026-04-26 13:32:26,816 - INFO - Retrying request to /chat/completions in 0.752318 seconds
+2026-04-26 13:32:27,404 - INFO - Retrying request to /chat/completions in 0.400170 seconds
+2026-04-26 13:32:27,693 - INFO - Retrying request to /chat/completions in 0.391177 seconds
+2026-04-26 13:32:27,719 - INFO - Retrying request to /chat/completions in 0.473963 seconds
+2026-04-26 13:32:28,283 - INFO - Retrying request to /chat/completions in 0.822536 seconds
+2026-04-26 13:32:28,399 - INFO - Retrying request to /chat/completions in 0.379939 seconds
+2026-04-26 13:32:28,776 - INFO - Retrying request to /chat/completions in 0.403860 seconds
+2026-04-26 13:32:28,853 - INFO - Retrying request to /chat/completions in 0.765809 seconds
+2026-04-26 13:32:29,263 - INFO - Retrying request to /chat/completions in 0.415557 seconds
+2026-04-26 13:32:29,284 - INFO - Retrying request to /chat/completions in 0.965311 seconds
+2026-04-26 13:32:29,760 - INFO - Retrying request to /chat/completions in 0.859507 seconds
+2026-04-26 13:32:30,144 - INFO - Retrying request to /chat/completions in 0.443211 seconds
+2026-04-26 13:32:30,145 - INFO - Retrying request to /chat/completions in 0.474760 seconds
+2026-04-26 13:32:31,035 - INFO - Retrying request to /chat/completions in 0.380191 seconds
+2026-04-26 13:32:31,036 - INFO - Retrying request to /chat/completions in 0.474031 seconds
+2026-04-26 13:32:31,096 - INFO - Retrying request to /chat/completions in 0.377232 seconds
+2026-04-26 13:32:31,153 - INFO - Retrying request to /chat/completions in 0.414576 seconds
+2026-04-26 13:32:31,488 - INFO - Retrying request to /chat/completions in 0.799973 seconds
+2026-04-26 13:32:31,580 - INFO - Retrying request to /chat/completions in 0.759961 seconds
+2026-04-26 13:32:31,671 - INFO - Retrying request to /chat/completions in 0.935920 seconds
+2026-04-26 13:32:32,331 - INFO - Retrying request to /chat/completions in 0.410030 seconds
+2026-04-26 13:32:32,590 - INFO - Retrying request to /chat/completions in 0.411798 seconds
+2026-04-26 13:32:32,824 - INFO - Retrying request to /chat/completions in 0.885658 seconds
+2026-04-26 13:32:32,879 - INFO - Retrying request to /chat/completions in 0.450230 seconds
+2026-04-26 13:32:32,970 - INFO - Retrying request to /chat/completions in 0.438773 seconds
+2026-04-26 13:32:33,089 - INFO - Retrying request to /chat/completions in 0.921424 seconds
+2026-04-26 13:32:33,432 - INFO - Retrying request to /chat/completions in 0.764228 seconds
+2026-04-26 13:32:33,484 - INFO - Retrying request to /chat/completions in 0.974702 seconds
+2026-04-26 13:32:34,275 - INFO - Retrying request to /chat/completions in 0.410010 seconds
+2026-04-26 13:32:34,449 - INFO - Retrying request to /chat/completions in 0.417886 seconds
+2026-04-26 13:32:34,485 - INFO - Retrying request to /chat/completions in 0.491565 seconds
+2026-04-26 13:32:34,735 - INFO - Retrying request to /chat/completions in 0.441148 seconds
+2026-04-26 13:32:34,751 - INFO - Retrying request to /chat/completions in 0.837760 seconds
+2026-04-26 13:32:34,967 - INFO - Retrying request to /chat/completions in 0.901999 seconds
+2026-04-26 13:32:35,652 - INFO - Retrying request to /chat/completions in 0.483176 seconds
+2026-04-26 13:32:35,981 - INFO - Retrying request to /chat/completions in 0.423900 seconds
+2026-04-26 13:32:36,021 - INFO - Retrying request to /chat/completions in 0.460121 seconds
+2026-04-26 13:32:36,060 - INFO - Retrying request to /chat/completions in 0.458201 seconds
+2026-04-26 13:32:36,226 - INFO - Retrying request to /chat/completions in 0.937617 seconds
+2026-04-26 13:32:36,499 - INFO - Retrying request to /chat/completions in 0.798420 seconds
+2026-04-26 13:32:36,567 - INFO - Retrying request to /chat/completions in 0.910211 seconds
+2026-04-26 13:32:36,599 - INFO - Retrying request to /chat/completions in 0.814918 seconds
+2026-04-26 13:32:37,407 - INFO - Retrying request to /chat/completions in 0.441830 seconds
+2026-04-26 13:32:37,572 - INFO - Retrying request to /chat/completions in 0.412907 seconds
+2026-04-26 13:32:37,662 - INFO - Retrying request to /chat/completions in 0.428731 seconds
+2026-04-26 13:32:37,753 - INFO - Retrying request to /chat/completions in 0.394136 seconds
+2026-04-26 13:32:37,937 - INFO - Retrying request to /chat/completions in 0.903971 seconds
+2026-04-26 13:32:38,172 - INFO - Retrying request to /chat/completions in 0.980879 seconds
+2026-04-26 13:32:38,240 - INFO - Retrying request to /chat/completions in 0.948781 seconds
+2026-04-26 13:32:39,090 - INFO - Retrying request to /chat/completions in 0.389867 seconds
+2026-04-26 13:32:39,142 - INFO - Retrying request to /chat/completions in 0.471776 seconds
+2026-04-26 13:32:39,446 - INFO - Retrying request to /chat/completions in 0.431807 seconds
+2026-04-26 13:32:39,585 - INFO - Retrying request to /chat/completions in 0.803515 seconds
+2026-04-26 13:32:39,706 - INFO - Retrying request to /chat/completions in 0.808303 seconds
+2026-04-26 13:32:39,978 - INFO - Retrying request to /chat/completions in 0.944047 seconds
+2026-04-26 13:32:40,654 - INFO - Retrying request to /chat/completions in 0.455283 seconds
+2026-04-26 13:32:40,752 - INFO - Retrying request to /chat/completions in 0.495353 seconds
+2026-04-26 13:32:40,765 - INFO - Retrying request to /chat/completions in 0.433322 seconds
+2026-04-26 13:32:41,194 - INFO - Retrying request to /chat/completions in 0.789302 seconds
+2026-04-26 13:32:41,217 - INFO - Retrying request to /chat/completions in 0.443902 seconds
+2026-04-26 13:32:41,287 - INFO - Retrying request to /chat/completions in 0.893375 seconds
+2026-04-26 13:32:41,347 - INFO - Retrying request to /chat/completions in 0.785735 seconds
+2026-04-26 13:32:41,757 - INFO - Retrying request to /chat/completions in 0.821566 seconds
+2026-04-26 13:32:42,229 - INFO - Retrying request to /chat/completions in 0.416008 seconds
+2026-04-26 13:32:42,386 - INFO - Retrying request to /chat/completions in 0.433583 seconds
+2026-04-26 13:32:42,398 - INFO - Retrying request to /chat/completions in 0.413413 seconds
+2026-04-26 13:32:42,862 - INFO - Retrying request to /chat/completions in 0.458149 seconds
+2026-04-26 13:32:43,009 - INFO - Retrying request to /chat/completions in 0.936770 seconds
+2026-04-26 13:32:43,135 - INFO - Retrying request to /chat/completions in 0.421816 seconds
+2026-04-26 13:32:43,335 - INFO - Retrying request to /chat/completions in 0.431207 seconds
+2026-04-26 13:32:43,871 - INFO - Retrying request to /chat/completions in 0.984366 seconds
+2026-04-26 13:32:43,884 - INFO - Retrying request to /chat/completions in 0.483911 seconds
+2026-04-26 13:32:44,034 - INFO - Retrying request to /chat/completions in 0.461852 seconds
+2026-04-26 13:32:44,193 - INFO - Retrying request to /chat/completions in 0.478300 seconds
+2026-04-26 13:32:44,479 - INFO - Retrying request to /chat/completions in 0.837969 seconds
+2026-04-26 13:32:44,588 - INFO - Retrying request to /chat/completions in 0.843888 seconds
+2026-04-26 13:32:44,760 - INFO - Retrying request to /chat/completions in 0.940598 seconds
+2026-04-26 13:32:45,129 - INFO - Retrying request to /chat/completions in 0.456795 seconds
+2026-04-26 13:32:45,637 - INFO - Retrying request to /chat/completions in 0.435104 seconds
+2026-04-26 13:32:45,641 - INFO - Retrying request to /chat/completions in 0.447741 seconds
+2026-04-26 13:32:45,673 - INFO - Retrying request to /chat/completions in 0.901745 seconds
+2026-04-26 13:32:45,986 - INFO - Retrying request to /chat/completions in 0.488679 seconds
+2026-04-26 13:32:46,161 - INFO - Retrying request to /chat/completions in 0.854339 seconds
+2026-04-26 13:32:46,577 - INFO - Retrying request to /chat/completions in 0.766995 seconds
+2026-04-26 13:32:46,697 - INFO - Retrying request to /chat/completions in 0.443235 seconds
+2026-04-26 13:32:46,831 - INFO - Retrying request to /chat/completions in 0.457647 seconds
+2026-04-26 13:32:47,223 - INFO - Retrying request to /chat/completions in 0.823922 seconds
+2026-04-26 13:32:47,370 - INFO - Retrying request to /chat/completions in 0.801737 seconds
+2026-04-26 13:32:47,478 - INFO - Retrying request to /chat/completions in 0.409469 seconds
+2026-04-26 13:32:47,649 - INFO - Retrying request to /chat/completions in 0.380123 seconds
+2026-04-26 13:32:47,984 - INFO - Retrying request to /chat/completions in 0.773445 seconds
+2026-04-26 13:32:48,152 - INFO - Retrying request to /chat/completions in 0.925856 seconds
+2026-04-26 13:32:48,308 - INFO - Retrying request to /chat/completions in 0.400163 seconds
+2026-04-26 13:32:48,446 - INFO - Retrying request to /chat/completions in 0.426923 seconds
+2026-04-26 13:32:48,805 - INFO - Retrying request to /chat/completions in 0.881841 seconds
+2026-04-26 13:32:48,961 - INFO - Retrying request to /chat/completions in 0.751519 seconds
+2026-04-26 13:32:49,011 - INFO - Retrying request to /chat/completions in 0.417226 seconds
+2026-04-26 13:32:49,515 - INFO - Retrying request to /chat/completions in 0.766166 seconds
+2026-04-26 13:32:49,874 - INFO - Retrying request to /chat/completions in 0.420570 seconds
+2026-04-26 13:32:49,972 - INFO - Retrying request to /chat/completions in 0.427701 seconds
+2026-04-26 13:32:50,373 - INFO - Retrying request to /chat/completions in 0.968197 seconds
+2026-04-26 13:32:50,477 - INFO - Retrying request to /chat/completions in 0.910242 seconds
+2026-04-26 13:32:50,487 - INFO - Retrying request to /chat/completions in 0.436093 seconds
+2026-04-26 13:32:50,604 - INFO - Retrying request to /chat/completions in 0.380133 seconds
+2026-04-26 13:32:51,017 - INFO - Retrying request to /chat/completions in 0.824847 seconds
+2026-04-26 13:32:51,080 - INFO - Retrying request to /chat/completions in 0.840195 seconds
+2026-04-26 13:32:51,632 - INFO - Retrying request to /chat/completions in 0.422849 seconds
+2026-04-26 13:32:51,639 - INFO - Retrying request to /chat/completions in 0.459079 seconds
+2026-04-26 13:32:52,122 - INFO - Retrying request to /chat/completions in 0.432915 seconds
+2026-04-26 13:32:52,140 - INFO - Retrying request to /chat/completions in 0.874008 seconds
+2026-04-26 13:32:52,249 - INFO - Retrying request to /chat/completions in 0.978734 seconds
+2026-04-26 13:32:52,506 - INFO - Retrying request to /chat/completions in 0.463410 seconds
+2026-04-26 13:32:52,652 - INFO - Retrying request to /chat/completions in 0.873353 seconds
+2026-04-26 13:32:53,092 - INFO - Retrying request to /chat/completions in 0.759459 seconds
+2026-04-26 13:32:53,281 - INFO - Retrying request to /chat/completions in 0.424330 seconds
+2026-04-26 13:32:53,484 - INFO - Retrying request to /chat/completions in 0.497363 seconds
+2026-04-26 13:32:53,802 - INFO - Retrying request to /chat/completions in 0.416674 seconds
+2026-04-26 13:32:53,811 - INFO - Retrying request to /chat/completions in 0.915212 seconds
+2026-04-26 13:32:54,074 - INFO - Retrying request to /chat/completions in 0.802360 seconds
+2026-04-26 13:32:54,307 - INFO - Retrying request to /chat/completions in 0.928841 seconds
+2026-04-26 13:32:54,453 - INFO - Retrying request to /chat/completions in 0.499058 seconds
+2026-04-26 13:32:55,009 - INFO - Retrying request to /chat/completions in 0.491854 seconds
+2026-04-26 13:32:55,061 - INFO - Retrying request to /chat/completions in 0.948022 seconds
+2026-04-26 13:32:55,153 - INFO - Retrying request to /chat/completions in 0.483220 seconds
+2026-04-26 13:32:55,575 - INFO - Retrying request to /chat/completions in 0.891069 seconds
+2026-04-26 13:32:55,739 - INFO - Retrying request to /chat/completions in 0.863580 seconds
+2026-04-26 13:32:56,048 - INFO - Retrying request to /chat/completions in 0.383683 seconds
+2026-04-26 13:32:56,250 - INFO - Retrying request to /chat/completions in 0.494698 seconds
+2026-04-26 13:32:56,521 - INFO - Retrying request to /chat/completions in 0.921416 seconds
+2026-04-26 13:32:56,725 - INFO - Retrying request to /chat/completions in 0.469911 seconds
+2026-04-26 13:32:56,833 - INFO - Retrying request to /chat/completions in 0.863917 seconds
+2026-04-26 13:32:56,880 - INFO - Retrying request to /chat/completions in 0.422204 seconds
+2026-04-26 13:32:57,276 - INFO - Retrying request to /chat/completions in 0.973768 seconds
+2026-04-26 13:32:57,403 - INFO - Retrying request to /chat/completions in 0.988275 seconds
+2026-04-26 13:32:57,725 - INFO - Retrying request to /chat/completions in 0.386266 seconds
+2026-04-26 13:32:58,199 - INFO - Retrying request to /chat/completions in 0.818010 seconds
+2026-04-26 13:32:58,233 - INFO - Retrying request to /chat/completions in 0.425336 seconds
+2026-04-26 13:32:58,540 - INFO - Retrying request to /chat/completions in 0.421083 seconds
+2026-04-26 13:32:58,678 - INFO - Retrying request to /chat/completions in 0.406549 seconds
+2026-04-26 13:32:59,064 - INFO - Retrying request to /chat/completions in 0.834209 seconds
+2026-04-26 13:32:59,133 - INFO - Retrying request to /chat/completions in 0.399637 seconds
+2026-04-26 13:32:59,173 - INFO - Retrying request to /chat/completions in 0.866562 seconds
+2026-04-26 13:32:59,657 - INFO - Retrying request to /chat/completions in 0.922944 seconds
+2026-04-26 13:32:59,845 - INFO - Retrying request to /chat/completions in 0.398074 seconds
+2026-04-26 13:33:00,330 - INFO - Retrying request to /chat/completions in 0.408903 seconds
+2026-04-26 13:33:00,346 - INFO - Retrying request to /chat/completions in 0.919798 seconds
+2026-04-26 13:33:00,617 - INFO - Retrying request to /chat/completions in 0.406551 seconds
+2026-04-26 13:33:00,806 - INFO - Retrying request to /chat/completions in 0.401774 seconds
+2026-04-26 13:33:00,816 - INFO - Retrying request to /chat/completions in 0.771870 seconds
+2026-04-26 13:33:01,130 - INFO - Retrying request to /chat/completions in 0.875808 seconds
+2026-04-26 13:33:01,307 - INFO - Retrying request to /chat/completions in 0.941252 seconds
+2026-04-26 13:33:01,893 - INFO - Retrying request to /chat/completions in 0.430340 seconds
+2026-04-26 13:33:02,026 - INFO - Retrying request to /chat/completions in 0.422851 seconds
+2026-04-26 13:33:02,242 - INFO - Retrying request to /chat/completions in 0.396865 seconds
+2026-04-26 13:33:02,426 - INFO - Retrying request to /chat/completions in 0.813444 seconds
+2026-04-26 13:33:02,544 - INFO - Retrying request to /chat/completions in 0.885174 seconds
+2026-04-26 13:33:02,551 - INFO - Retrying request to /chat/completions in 0.480566 seconds
+2026-04-26 13:33:02,722 - INFO - Retrying request to /chat/completions in 0.845205 seconds
+2026-04-26 13:33:03,122 - INFO - Retrying request to /chat/completions in 0.755271 seconds
+2026-04-26 13:33:03,509 - INFO - Retrying request to /chat/completions in 0.434229 seconds
+2026-04-26 13:33:03,865 - INFO - Retrying request to /chat/completions in 0.428529 seconds
+2026-04-26 13:33:04,009 - INFO - Retrying request to /chat/completions in 0.403260 seconds
+2026-04-26 13:33:04,156 - INFO - Retrying request to /chat/completions in 0.458826 seconds
+2026-04-26 13:33:04,387 - INFO - Retrying request to /chat/completions in 0.891663 seconds
+2026-04-26 13:33:04,507 - INFO - Retrying request to /chat/completions in 0.936059 seconds
+2026-04-26 13:33:04,705 - INFO - Retrying request to /chat/completions in 0.856210 seconds
+2026-04-26 13:33:04,904 - INFO - Retrying request to /chat/completions in 0.457086 seconds
+2026-04-26 13:33:05,452 - INFO - Retrying request to /chat/completions in 0.760597 seconds
+2026-04-26 13:33:05,868 - INFO - Retrying request to /chat/completions in 0.396276 seconds
+2026-04-26 13:33:05,901 - INFO - Retrying request to /chat/completions in 0.429544 seconds
+2026-04-26 13:33:06,111 - INFO - Retrying request to /chat/completions in 0.399918 seconds
+2026-04-26 13:33:06,345 - INFO - Retrying request to /chat/completions in 0.761043 seconds
+2026-04-26 13:33:06,419 - INFO - Retrying request to /chat/completions in 0.936411 seconds
+2026-04-26 13:33:06,540 - INFO - Retrying request to /chat/completions in 0.396066 seconds
+2026-04-26 13:33:06,618 - INFO - Retrying request to /chat/completions in 0.844736 seconds
+2026-04-26 13:33:07,027 - INFO - Retrying request to /chat/completions in 0.923359 seconds
+2026-04-26 13:33:07,389 - INFO - Retrying request to /chat/completions in 0.391483 seconds
+2026-04-26 13:33:07,644 - INFO - Retrying request to /chat/completions in 0.455941 seconds
+2026-04-26 13:33:07,665 - INFO - Retrying request to /chat/completions in 0.421673 seconds
+2026-04-26 13:33:07,859 - INFO - Retrying request to /chat/completions in 0.754745 seconds
+2026-04-26 13:33:08,180 - INFO - Retrying request to /chat/completions in 0.942965 seconds
+2026-04-26 13:33:08,182 - INFO - Retrying request to /chat/completions in 0.997775 seconds
+2026-04-26 13:33:08,231 - INFO - Retrying request to /chat/completions in 0.403259 seconds
+2026-04-26 13:33:08,713 - INFO - Retrying request to /chat/completions in 0.993240 seconds
+2026-04-26 13:33:08,879 - INFO - Retrying request to /chat/completions in 0.490454 seconds
+2026-04-26 13:33:09,434 - INFO - Retrying request to /chat/completions in 0.388013 seconds
+2026-04-26 13:33:09,464 - INFO - Retrying request to /chat/completions in 0.920607 seconds
+2026-04-26 13:33:09,525 - INFO - Retrying request to /chat/completions in 0.388190 seconds
+2026-04-26 13:33:09,910 - INFO - Retrying request to /chat/completions in 0.831892 seconds
+2026-04-26 13:33:09,979 - INFO - Retrying request to /chat/completions in 0.381839 seconds
+2026-04-26 13:33:10,066 - INFO - Retrying request to /chat/completions in 0.793834 seconds
+2026-04-26 13:33:10,463 - INFO - Retrying request to /chat/completions in 0.821002 seconds
+2026-04-26 13:33:10,845 - INFO - Retrying request to /chat/completions in 0.401197 seconds
+2026-04-26 13:33:11,011 - INFO - Retrying request to /chat/completions in 0.434401 seconds
+2026-04-26 13:33:11,134 - INFO - Retrying request to /chat/completions in 0.497722 seconds
+2026-04-26 13:33:11,321 - INFO - Retrying request to /chat/completions in 0.987604 seconds
+2026-04-26 13:33:11,542 - INFO - Retrying request to /chat/completions in 0.936558 seconds
+2026-04-26 13:33:11,568 - INFO - Retrying request to /chat/completions in 0.386214 seconds
+2026-04-26 13:33:11,715 - INFO - Retrying request to /chat/completions in 0.764673 seconds
+2026-04-26 13:33:12,070 - INFO - Retrying request to /chat/completions in 0.929911 seconds
+2026-04-26 13:33:12,615 - INFO - Retrying request to /chat/completions in 0.391357 seconds
+2026-04-26 13:33:12,755 - INFO - Retrying request to /chat/completions in 0.423436 seconds
+2026-04-26 13:33:12,757 - INFO - Retrying request to /chat/completions in 0.401792 seconds
+2026-04-26 13:33:13,090 - INFO - Retrying request to /chat/completions in 0.886896 seconds
+2026-04-26 13:33:13,258 - INFO - Retrying request to /chat/completions in 0.915432 seconds
+2026-04-26 13:33:13,272 - INFO - Retrying request to /chat/completions in 0.837522 seconds
+2026-04-26 13:33:13,284 - INFO - Retrying request to /chat/completions in 0.482592 seconds
+2026-04-26 13:33:13,872 - INFO - Retrying request to /chat/completions in 0.760099 seconds
+2026-04-26 13:33:14,254 - INFO - Retrying request to /chat/completions in 0.396694 seconds
+2026-04-26 13:33:14,411 - INFO - Retrying request to /chat/completions in 0.399976 seconds
+2026-04-26 13:33:14,414 - INFO - Retrying request to /chat/completions in 0.389485 seconds
+2026-04-26 13:33:14,891 - INFO - Retrying request to /chat/completions in 0.790348 seconds
+2026-04-26 13:33:15,057 - INFO - Retrying request to /chat/completions in 0.455584 seconds
+2026-04-26 13:33:15,086 - INFO - Retrying request to /chat/completions in 0.497554 seconds
+2026-04-26 13:33:15,287 - INFO - Retrying request to /chat/completions in 0.398497 seconds
+2026-04-26 13:33:15,950 - INFO - Retrying request to /chat/completions in 0.868354 seconds
+2026-04-26 13:33:16,067 - INFO - Retrying request to /chat/completions in 0.448909 seconds
+2026-04-26 13:33:16,367 - INFO - Retrying request to /chat/completions in 0.462645 seconds
+2026-04-26 13:33:16,906 - INFO - Retrying request to /chat/completions in 0.419626 seconds
+2026-04-26 13:33:17,010 - INFO - Retrying request to /chat/completions in 0.444190 seconds
+2026-04-26 13:33:17,232 - INFO - Retrying request to /chat/completions in 0.375541 seconds
+2026-04-26 13:33:17,312 - INFO - Retrying request to /chat/completions in 0.404293 seconds
+2026-04-26 13:33:17,401 - INFO - Retrying request to /chat/completions in 0.824209 seconds
+2026-04-26 13:33:18,200 - INFO - Retrying request to /chat/completions in 0.410175 seconds
+2026-04-26 13:33:18,236 - INFO - Retrying request to /chat/completions in 0.379235 seconds
+2026-04-26 13:33:18,812 - INFO - Retrying request to /chat/completions in 0.422248 seconds
+2026-04-26 13:33:18,839 - INFO - Retrying request to /chat/completions in 0.961894 seconds
+2026-04-26 13:33:18,916 - INFO - Retrying request to /chat/completions in 0.915298 seconds
+2026-04-26 13:33:18,969 - INFO - Retrying request to /chat/completions in 0.470233 seconds
+2026-04-26 13:33:19,324 - INFO - Retrying request to /chat/completions in 0.922261 seconds
+2026-04-26 13:33:19,949 - INFO - Retrying request to /chat/completions in 0.392916 seconds
+2026-04-26 13:33:20,116 - INFO - Retrying request to /chat/completions in 0.387363 seconds
+2026-04-26 13:33:20,175 - INFO - Retrying request to /chat/completions in 0.404739 seconds
+2026-04-26 13:33:20,601 - INFO - Retrying request to /chat/completions in 0.768294 seconds
+2026-04-26 13:33:20,605 - INFO - Retrying request to /chat/completions in 0.474446 seconds
+2026-04-26 13:33:20,651 - INFO - Retrying request to /chat/completions in 0.936967 seconds
+2026-04-26 13:33:20,668 - INFO - Retrying request to /chat/completions in 0.766773 seconds
+2026-04-26 13:33:21,167 - INFO - Retrying request to /chat/completions in 0.928437 seconds
+2026-04-26 13:33:21,676 - INFO - Retrying request to /chat/completions in 0.405592 seconds
+2026-04-26 13:33:21,860 - INFO - Retrying request to /chat/completions in 0.375504 seconds
+2026-04-26 13:33:22,107 - INFO - Retrying request to /chat/completions in 0.383986 seconds
+2026-04-26 13:33:22,161 - INFO - Retrying request to /chat/completions in 0.855890 seconds
+2026-04-26 13:33:22,323 - INFO - Retrying request to /chat/completions in 0.810361 seconds
+2026-04-26 13:33:22,360 - INFO - Retrying request to /chat/completions in 0.491719 seconds
+2026-04-26 13:33:22,588 - INFO - Retrying request to /chat/completions in 0.832840 seconds
+2026-04-26 13:33:22,941 - INFO - Retrying request to /chat/completions in 0.759927 seconds
+2026-04-26 13:33:23,321 - INFO - Retrying request to /chat/completions in 0.480968 seconds
+2026-04-26 13:33:23,685 - INFO - Retrying request to /chat/completions in 0.446044 seconds
+2026-04-26 13:33:23,686 - INFO - Retrying request to /chat/completions in 0.499804 seconds
+2026-04-26 13:33:23,905 - INFO - Retrying request to /chat/completions in 0.751092 seconds
+2026-04-26 13:33:23,983 - INFO - Retrying request to /chat/completions in 0.443278 seconds
+2026-04-26 13:33:24,254 - INFO - Retrying request to /chat/completions in 0.786295 seconds
+2026-04-26 13:33:24,503 - INFO - Retrying request to /chat/completions in 0.888848 seconds
+2026-04-26 13:33:24,666 - INFO - Retrying request to /chat/completions in 0.479922 seconds
+2026-04-26 13:33:24,877 - INFO - Retrying request to /chat/completions in 0.495599 seconds
+2026-04-26 13:33:25,231 - INFO - Retrying request to /chat/completions in 0.857503 seconds
+2026-04-26 13:33:25,302 - INFO - Retrying request to /chat/completions in 0.399030 seconds
+2026-04-26 13:33:25,478 - INFO - Retrying request to /chat/completions in 0.770360 seconds
+2026-04-26 13:33:25,813 - INFO - Retrying request to /chat/completions in 0.762820 seconds
+2026-04-26 13:33:25,878 - INFO - Retrying request to /chat/completions in 0.401060 seconds
+2026-04-26 13:33:26,366 - INFO - Retrying request to /chat/completions in 0.944902 seconds
+2026-04-26 13:33:26,406 - INFO - Retrying request to /chat/completions in 0.407223 seconds
+2026-04-26 13:33:26,538 - INFO - Retrying request to /chat/completions in 0.411286 seconds
+2026-04-26 13:33:26,837 - INFO - Retrying request to /chat/completions in 0.490555 seconds
+2026-04-26 13:33:26,896 - INFO - Retrying request to /chat/completions in 0.785186 seconds
+2026-04-26 13:33:27,452 - INFO - Retrying request to /chat/completions in 0.766280 seconds
+2026-04-26 13:33:27,461 - INFO - Retrying request to /chat/completions in 0.483079 seconds
+2026-04-26 13:33:27,676 - INFO - Retrying request to /chat/completions in 0.426693 seconds
+2026-04-26 13:33:28,176 - INFO - Retrying request to /chat/completions in 0.880808 seconds
+2026-04-26 13:33:28,423 - INFO - Retrying request to /chat/completions in 0.431938 seconds
+2026-04-26 13:33:28,446 - INFO - Retrying request to /chat/completions in 0.428229 seconds
+2026-04-26 13:33:28,888 - INFO - Retrying request to /chat/completions in 0.400857 seconds
+2026-04-26 13:33:28,939 - INFO - Retrying request to /chat/completions in 0.929351 seconds
+2026-04-26 13:33:28,965 - INFO - Retrying request to /chat/completions in 0.842446 seconds
+2026-04-26 13:33:29,362 - INFO - Retrying request to /chat/completions in 0.822508 seconds
+2026-04-26 13:33:29,373 - INFO - Retrying request to /chat/completions in 0.399845 seconds
+2026-04-26 13:33:29,869 - INFO - Retrying request to /chat/completions in 0.815739 seconds
+2026-04-26 13:33:30,079 - INFO - Retrying request to /chat/completions in 0.399830 seconds
+2026-04-26 13:33:30,573 - INFO - Retrying request to /chat/completions in 0.816754 seconds
+Running helper LM: 100%|██████████ 500/500 LM calls [01:46<00:00,  4.71it/s]Running helper LM: 100%|██████████ 500/500 LM calls [01:46<00:00,  4.71it/s]
+Traceback (most recent call last):
+  File "/mnt/e/Semantic Operators/SemBench/my_benchmark/paper/runner/lotus_r_Q3_t1.py", line 83, in <module>
+    output = papers.sem_filter(
+             ^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/lotus/cache.py", line 93, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/lotus/sem_ops/sem_filter.py", line 263, in __call__
+    helper_output = sem_filter(
+                    ^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/lotus/sem_ops/sem_filter.py", line 77, in sem_filter
+    lm_output: LMOutput = model(
+                          ^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/lotus/models/lm.py", line 119, in __call__
+    outputs = [self._get_top_choice(resp) for resp in all_responses]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/lotus/models/lm.py", line 214, in _get_top_choice
+    choice = response.choices[0]
+             ^^^^^^^^^^^^^^^^
+AttributeError: 'RateLimitError' object has no attribute 'choices'

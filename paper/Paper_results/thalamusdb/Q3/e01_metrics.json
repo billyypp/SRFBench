@@ -1,0 +1,22 @@
+{
+  "test_id": "e01",
+  "query": "Q3",
+  "scenario": "paper",
+  "system": "thalamusdb",
+  "model_name": "gpt-5.4",
+  "policy": "max_error=0.1",
+  "constraints": {
+    "max_error": 0.1,
+    "max_calls": 10000000,
+    "max_tokens": 10000000,
+    "max_seconds": 3600
+  },
+  "execution_time": 71.75,
+  "llm_calls_total": 500,
+  "tokens": 197828,
+  "cost_usd": 0.514615,
+  "precision": 0.375,
+  "recall": 0.0857,
+  "f1_score": 0.1395,
+  "row_count": 8
+}

@@ -1,0 +1,20 @@
+commodity_name,factor_id
+"Tea, average",F02
+Gold,F02
+Gold,F19
+Aluminum,F12
+"Wheat, U.S., HRW",F12
+"Crude oil, Brent",F21
+"Tea, average",F16
+"Natural gas, Europe",F21
+Aluminum,F04
+"Crude oil, Brent",F07
+"Wheat, U.S., HRW",F02
+Gold,F07
+Aluminum,F02
+"Natural gas, Europe",F12
+"Crude oil, Brent",F12
+"Wheat, U.S., HRW",F21
+"Natural gas, Europe",F04
+"Crude oil, Brent",F04
+"Wheat, U.S., HRW",F07

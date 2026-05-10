@@ -1,0 +1,18 @@
+{
+  "test_id": "t1",
+  "query": "Q2",
+  "scenario": "logic",
+  "model_name": "gpt-5.4",
+  "policy": "optimized",
+  "method": "quick-sem",
+  "execution_time": 24.86,
+  "llm_calls_total": 127,
+  "llm_calls_to_main_lm": 144,
+  "llm_calls_saved": -17,
+  "llm_calls_calibration": 0,
+  "cost_usd": 0.044175,
+  "precision": 0.9,
+  "recall": 0.9,
+  "f1_score": 0.9,
+  "row_count": 10
+}

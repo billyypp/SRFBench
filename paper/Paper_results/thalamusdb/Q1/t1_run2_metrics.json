@@ -1,0 +1,16 @@
+{
+  "test_id": "t1",
+  "query": "Q1",
+  "scenario": "paper",
+  "system": "thalamusdb",
+  "model_name": "gpt-5.4",
+  "policy": "max_error=0.2",
+  "execution_time": 112.48,
+  "llm_calls_total": 28,
+  "tokens": 91238,
+  "cost_usd": 0.163494,
+  "precision": 0.9231,
+  "recall": 0.8571,
+  "f1_score": 0.8889,
+  "row_count": 13
+}

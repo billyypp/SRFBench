@@ -1,0 +1,38 @@
+/mnt/e/Semantic Operators/SemBench/my_benchmark/paper/runner/pz_r_Q2_t1.py:38: DeprecationWarning: we are renaming this function to `sem_map` and deprecating `sem_add_columns` in the next release of PZ. To update your code, simply change your calls from `.sem_add_columns(...)` to `.sem_map(...)`. The function arguments will stay the same.
+  ds = ds.sem_add_columns([
+PATCHED: All models kept in frontier, no Pareto pruning
+[pz] Q2 paper | pairs=50 K=10 gold=10
+Using NAIVE PRIORS for operator sampling order
+
+╭───────────────────────────── Sample Allocation ──────────────────────────────╮
+│                                                                              │
+│  ⠋ MarshalAndScanDataOp (0-d63f33df0c) ━━━━━━━   0% 0/0     Cost: $0.0000    │
+│    LLMConvert (1-9965ca79e4)           ━━━━━━━ 100% 108/100 Cost: $0.0000    │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────── Optimization Progress ────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│     ━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 108/100 0:00:33 0:00:00 Cost: $0.0000    │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯Total opt. time: 35.41s
+Total opt. cost: $0.0000
+
+  MarshalAndScanDataOp (dd21cdd215) ━━━━━ 100% 50/50 0:00… 0:00… Cost: $0.0000 
+  LLMConvertBonded (43e6e122f2)     ━━━━━ 100% 50/50 0:00… 0:00… Cost: $0.0000 
+Total time: 4.93s
+Total cost: $0.0000
+Traceback (most recent call last):
+  File "/mnt/e/Semantic Operators/SemBench/my_benchmark/paper/runner/pz_r_Q2_t1.py", line 58, in <module>
+    top_df = df.nlargest(K, "support_score")[["claim_id", "doc_id"]]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/pandas/core/frame.py", line 7651, in nlargest
+    return selectn.SelectNFrame(self, n=n, keep=keep, columns=columns).nlargest()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/pandas/core/methods/selectn.py", line 57, in nlargest
+    return self.compute("nlargest")
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/pandas/core/methods/selectn.py", line 201, in compute
+    raise TypeError(
+TypeError: Column 'support_score' has dtype object, cannot use method 'nlargest' with this dtype

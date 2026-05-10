@@ -1,0 +1,537 @@
+commodity_name,factor_id
+"Coal, Australia",F02
+"Coal, Australia",F03
+"Coal, Australia",F07
+"Coal, Australia",F08
+"Coal, Australia",F12
+"Coal, Australia",F19
+"Coal, Australia",F21
+"Coal, South Africa",F02
+"Coal, South Africa",F07
+"Coal, South Africa",F12
+"Coal, South Africa",F19
+"Coal, South Africa",F21
+"Crude oil, average",F02
+"Crude oil, average",F04
+"Crude oil, average",F06
+"Crude oil, average",F08
+"Crude oil, average",F12
+"Crude oil, average",F13
+"Crude oil, average",F15
+"Crude oil, average",F16
+"Crude oil, average",F19
+"Crude oil, average",F20
+"Crude oil, average",F21
+"Crude oil, Brent",F02
+"Crude oil, Brent",F03
+"Crude oil, Brent",F04
+"Crude oil, Brent",F06
+"Crude oil, Brent",F08
+"Crude oil, Brent",F12
+"Crude oil, Brent",F13
+"Crude oil, Brent",F15
+"Crude oil, Brent",F16
+"Crude oil, Brent",F17
+"Crude oil, Brent",F19
+"Crude oil, Brent",F20
+"Crude oil, Brent",F21
+"Crude oil, Dubai",F02
+"Crude oil, Dubai",F04
+"Crude oil, Dubai",F08
+"Crude oil, Dubai",F16
+"Crude oil, Dubai",F19
+"Crude oil, Dubai",F20
+"Crude oil, Dubai",F21
+"Crude oil, WTI",F02
+"Crude oil, WTI",F04
+"Crude oil, WTI",F06
+"Crude oil, WTI",F08
+"Crude oil, WTI",F12
+"Crude oil, WTI",F15
+"Crude oil, WTI",F16
+"Crude oil, WTI",F19
+"Crude oil, WTI",F20
+"Crude oil, WTI",F21
+"Natural gas, Index",F02
+"Natural gas, Index",F04
+"Natural gas, Index",F08
+"Natural gas, Index",F11
+"Natural gas, Index",F12
+"Natural gas, Index",F13
+"Natural gas, Index",F16
+"Natural gas, Index",F17
+"Natural gas, Index",F18
+"Natural gas, Index",F19
+"Natural gas, Index",F20
+"Natural gas, Index",F21
+"Natural gas, Index",F22
+"Natural gas, Europe",F02
+"Natural gas, Europe",F04
+"Natural gas, Europe",F06
+"Natural gas, Europe",F08
+"Natural gas, Europe",F12
+"Natural gas, Europe",F16
+"Natural gas, Europe",F17
+"Natural gas, Europe",F19
+"Natural gas, Europe",F20
+"Natural gas, Europe",F21
+"Natural gas, U.S.",F02
+"Natural gas, U.S.",F03
+"Natural gas, U.S.",F04
+"Natural gas, U.S.",F08
+"Natural gas, U.S.",F12
+"Natural gas, U.S.",F13
+"Natural gas, U.S.",F17
+"Natural gas, U.S.",F19
+"Natural gas, U.S.",F20
+"Natural gas, U.S.",F21
+"Natural gas, U.S.",F22
+"Liquefied natural gas, Japan",F01
+"Liquefied natural gas, Japan",F02
+"Liquefied natural gas, Japan",F04
+"Liquefied natural gas, Japan",F08
+"Liquefied natural gas, Japan",F11
+"Liquefied natural gas, Japan",F12
+"Liquefied natural gas, Japan",F15
+"Liquefied natural gas, Japan",F17
+"Liquefied natural gas, Japan",F19
+"Liquefied natural gas, Japan",F20
+"Liquefied natural gas, Japan",F21
+"Liquefied natural gas, Japan",F22
+Cocoa,F02
+Cocoa,F04
+Cocoa,F08
+Cocoa,F13
+Cocoa,F15
+Cocoa,F16
+Cocoa,F19
+Cocoa,F20
+Cocoa,F21
+"Coffee, Arabica",F02
+"Coffee, Arabica",F03
+"Coffee, Arabica",F12
+"Coffee, Arabica",F15
+"Coffee, Arabica",F16
+"Coffee, Arabica",F19
+"Coffee, Arabica",F20
+"Coffee, Arabica",F21
+"Coffee, Robusta",F02
+"Coffee, Robusta",F16
+"Coffee, Robusta",F19
+"Coffee, Robusta",F21
+"Tea, average",F02
+"Tea, average",F08
+"Tea, average",F12
+"Tea, average",F13
+"Tea, average",F15
+"Tea, average",F16
+"Tea, average",F17
+"Tea, average",F19
+"Tea, average",F20
+"Tea, average",F21
+"Tea, average",F22
+"Tea, Colombo",F02
+"Tea, Colombo",F16
+"Tea, Colombo",F20
+"Tea, Colombo",F21
+"Tea, Colombo",F22
+"Tea, Kolkata",F02
+"Tea, Kolkata",F08
+"Tea, Kolkata",F15
+"Tea, Kolkata",F16
+"Tea, Kolkata",F19
+"Tea, Kolkata",F20
+"Tea, Kolkata",F21
+"Tea, Mombasa",F02
+"Tea, Mombasa",F16
+Coconut oil,F02
+Coconut oil,F16
+Coconut oil,F20
+Coconut oil,F21
+Coconut oil,F22
+Fish meal,F02
+Fish meal,F04
+Fish meal,F08
+Fish meal,F12
+Fish meal,F13
+Fish meal,F15
+Fish meal,F16
+Fish meal,F19
+Fish meal,F21
+Groundnuts,F02
+Groundnuts,F12
+Groundnuts,F16
+Groundnuts,F19
+Groundnuts,F21
+Groundnuts,F24
+Groundnut oil,F02
+Groundnut oil,F15
+Groundnut oil,F16
+Groundnut oil,F19
+Groundnut oil,F20
+Groundnut oil,F21
+Groundnut oil,F22
+Groundnut oil,F23
+Palm oil,F16
+Palm oil,F19
+Palm oil,F21
+Palmkernel oil,F02
+Palmkernel oil,F15
+Palmkernel oil,F16
+Soybean meal,F02
+Soybean meal,F16
+Soybean meal,F19
+Soybean meal,F20
+Soybean meal,F21
+Soybean meal,F22
+Soybean oil,F02
+Soybean oil,F08
+Soybean oil,F12
+Soybean oil,F13
+Soybean oil,F15
+Soybean oil,F16
+Soybean oil,F19
+Soybean oil,F21
+Soybeans,F02
+Soybeans,F04
+Soybeans,F13
+Soybeans,F15
+Soybeans,F16
+Soybeans,F19
+Soybeans,F21
+Barley,F02
+Barley,F03
+Barley,F04
+Barley,F06
+Barley,F08
+Barley,F12
+Barley,F13
+Barley,F15
+Barley,F16
+Barley,F19
+Barley,F20
+Barley,F21
+Barley,F22
+Barley,F24
+Maize,F02
+Maize,F04
+Maize,F07
+Maize,F08
+Maize,F12
+Maize,F13
+Maize,F16
+Maize,F17
+Maize,F19
+Maize,F20
+Maize,F21
+Maize,F22
+Maize,F23
+"Rice, Thailand 5%",F02
+"Rice, Thailand 5%",F19
+"Rice, Thailand 5%",F21
+"Rice, Thailand 25%",F02
+"Rice, Thailand 25%",F13
+"Rice, Thailand 25%",F15
+"Rice, Thailand 25%",F19
+"Rice, Thailand A1",F19
+"Rice, Thailand A1",F21
+"Rice, Vietnam 5%",F02
+"Rice, Vietnam 5%",F19
+"Rice, Vietnam 5%",F21
+Sorghum,F02
+Sorghum,F03
+Sorghum,F04
+Sorghum,F08
+Sorghum,F12
+Sorghum,F13
+Sorghum,F15
+Sorghum,F16
+Sorghum,F19
+Sorghum,F21
+Sorghum,F22
+"Wheat, U.S., HRW",F02
+"Wheat, U.S., HRW",F04
+"Wheat, U.S., HRW",F08
+"Wheat, U.S., HRW",F12
+"Wheat, U.S., HRW",F13
+"Wheat, U.S., HRW",F15
+"Wheat, U.S., HRW",F16
+"Wheat, U.S., HRW",F19
+"Wheat, U.S., HRW",F20
+"Wheat, U.S., HRW",F21
+"Wheat, U.S., SRW",F02
+"Wheat, U.S., SRW",F04
+"Wheat, U.S., SRW",F08
+"Wheat, U.S., SRW",F12
+"Wheat, U.S., SRW",F13
+"Wheat, U.S., SRW",F15
+"Wheat, U.S., SRW",F16
+"Wheat, U.S., SRW",F17
+"Wheat, U.S., SRW",F19
+"Wheat, U.S., SRW",F21
+"Wheat, U.S., SRW",F22
+"Bananas, EU",F02
+"Bananas, EU",F19
+"Bananas, EU",F21
+"Bananas, EU",F22
+"Bananas, U.S.",F02
+"Bananas, U.S.",F16
+"Bananas, U.S.",F21
+Beef,F02
+Beef,F04
+Beef,F06
+Beef,F08
+Beef,F12
+Beef,F16
+Beef,F19
+Beef,F20
+Beef,F21
+Beef,F22
+Chicken,F02
+Chicken,F03
+Chicken,F04
+Chicken,F08
+Chicken,F16
+Chicken,F20
+Chicken,F21
+Chicken,F22
+Lamb,F02
+Lamb,F04
+Lamb,F06
+Lamb,F08
+Lamb,F12
+Lamb,F13
+Lamb,F15
+Lamb,F16
+Lamb,F19
+Lamb,F20
+Lamb,F21
+Oranges,F02
+Oranges,F04
+Oranges,F08
+Oranges,F12
+Oranges,F13
+Oranges,F15
+Oranges,F16
+Oranges,F19
+Oranges,F20
+Oranges,F21
+Oranges,F23
+Shrimp,F02
+Shrimp,F04
+Shrimp,F11
+Shrimp,F15
+Shrimp,F16
+Shrimp,F19
+Shrimp,F20
+Shrimp,F22
+"Sugar, EU",F02
+"Sugar, EU",F08
+"Sugar, EU",F12
+"Sugar, EU",F16
+"Sugar, EU",F19
+"Sugar, EU",F20
+"Sugar, EU",F21
+"Sugar, U.S.",F02
+"Sugar, U.S.",F04
+"Sugar, U.S.",F12
+"Sugar, U.S.",F13
+"Sugar, U.S.",F16
+"Sugar, U.S.",F19
+"Sugar, U.S.",F20
+"Sugar, U.S.",F21
+"Sugar, U.S.",F22
+"Sugar, World",F02
+"Sugar, World",F13
+"Sugar, World",F15
+"Sugar, World",F16
+"Sugar, World",F17
+"Sugar, World",F19
+"Sugar, World",F22
+"Logs, Africa",F08
+"Logs, Africa",F16
+"Logs, Africa",F20
+"Logs, Africa",F21
+"Logs, S.E. Asia",F15
+"Logs, S.E. Asia",F19
+"Logs, S.E. Asia",F20
+Plywood,F02
+Plywood,F04
+Plywood,F06
+Plywood,F08
+Plywood,F12
+Plywood,F16
+Plywood,F19
+Plywood,F20
+Plywood,F21
+"Sawnwood, Africa",F02
+"Sawnwood, Africa",F08
+"Sawnwood, Africa",F16
+"Sawnwood, Africa",F21
+"Sawnwood, S.E. Asia",F19
+"Sawnwood, S.E. Asia",F21
+Cotton,F02
+Cotton,F04
+Cotton,F12
+Cotton,F15
+Cotton,F16
+Cotton,F19
+Cotton,F20
+Cotton,F21
+"Rubber, RSS3",F02
+"Rubber, RSS3",F08
+"Rubber, RSS3",F15
+"Rubber, RSS3",F16
+"Rubber, RSS3",F19
+"Rubber, RSS3",F20
+"Rubber, RSS3",F21
+"Rubber, TSR20",F02
+"Rubber, TSR20",F04
+"Rubber, TSR20",F08
+"Rubber, TSR20",F15
+"Rubber, TSR20",F16
+"Rubber, TSR20",F19
+"Rubber, TSR20",F20
+"Rubber, TSR20",F21
+"Rubber, TSR20",F22
+DAP,F02
+DAP,F04
+DAP,F06
+DAP,F07
+DAP,F08
+DAP,F12
+DAP,F13
+DAP,F16
+DAP,F19
+DAP,F20
+DAP,F21
+DAP,F22
+Phosphate rock,F02
+Phosphate rock,F04
+Phosphate rock,F06
+Phosphate rock,F12
+Phosphate rock,F13
+Phosphate rock,F16
+Phosphate rock,F19
+Phosphate rock,F21
+Phosphate rock,F23
+Phosphate rock,F24
+Potassium chloride,F02
+Potassium chloride,F04
+Potassium chloride,F06
+Potassium chloride,F08
+Potassium chloride,F12
+Potassium chloride,F13
+Potassium chloride,F19
+Potassium chloride,F20
+Potassium chloride,F21
+TSP,F02
+TSP,F04
+TSP,F06
+TSP,F08
+TSP,F13
+TSP,F15
+TSP,F19
+TSP,F20
+TSP,F21
+"Urea, E. Europe",F02
+"Urea, E. Europe",F04
+"Urea, E. Europe",F08
+"Urea, E. Europe",F12
+"Urea, E. Europe",F16
+"Urea, E. Europe",F19
+"Urea, E. Europe",F20
+Aluminum,F02
+Aluminum,F04
+Aluminum,F12
+Aluminum,F15
+Aluminum,F16
+Aluminum,F19
+Aluminum,F20
+Aluminum,F21
+Copper,F02
+Copper,F03
+Copper,F04
+Copper,F12
+Copper,F13
+Copper,F16
+Copper,F19
+Copper,F20
+Copper,F21
+Copper,F22
+Iron ore,F02
+Iron ore,F03
+Iron ore,F04
+Iron ore,F08
+Iron ore,F12
+Iron ore,F16
+Iron ore,F19
+Iron ore,F20
+Iron ore,F21
+Lead,F02
+Lead,F04
+Lead,F12
+Lead,F15
+Lead,F19
+Lead,F20
+Nickel,F02
+Nickel,F04
+Nickel,F06
+Nickel,F07
+Nickel,F08
+Nickel,F12
+Nickel,F15
+Nickel,F16
+Nickel,F19
+Nickel,F20
+Nickel,F21
+Tin,F02
+Tin,F04
+Tin,F08
+Tin,F15
+Tin,F16
+Tin,F19
+Tin,F20
+Tin,F21
+Zinc,F02
+Zinc,F04
+Zinc,F06
+Zinc,F08
+Zinc,F12
+Zinc,F15
+Zinc,F16
+Zinc,F19
+Zinc,F20
+Zinc,F21
+Gold,F02
+Gold,F04
+Gold,F12
+Gold,F13
+Gold,F16
+Gold,F17
+Gold,F19
+Gold,F20
+Gold,F21
+Gold,F22
+Platinum,F02
+Platinum,F04
+Platinum,F08
+Platinum,F12
+Platinum,F15
+Platinum,F16
+Platinum,F17
+Platinum,F19
+Platinum,F20
+Platinum,F21
+Silver,F02
+Silver,F03
+Silver,F04
+Silver,F06
+Silver,F08
+Silver,F15
+Silver,F16
+Silver,F17
+Silver,F19
+Silver,F20
+Silver,F21
+Silver,F22

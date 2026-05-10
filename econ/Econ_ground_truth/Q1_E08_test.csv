@@ -1,0 +1,63 @@
+commodity_name,factor_id
+"Crude oil, Brent",F02
+"Crude oil, Brent",F03
+"Crude oil, Brent",F04
+"Crude oil, Brent",F06
+"Crude oil, Brent",F08
+"Crude oil, Brent",F12
+"Crude oil, Brent",F13
+"Crude oil, Brent",F15
+"Crude oil, Brent",F16
+"Crude oil, Brent",F17
+"Crude oil, Brent",F19
+"Crude oil, Brent",F20
+"Crude oil, Brent",F21
+"Natural gas, Europe",F02
+"Natural gas, Europe",F04
+"Natural gas, Europe",F06
+"Natural gas, Europe",F08
+"Natural gas, Europe",F12
+"Natural gas, Europe",F16
+"Natural gas, Europe",F17
+"Natural gas, Europe",F19
+"Natural gas, Europe",F20
+"Natural gas, Europe",F21
+"Tea, average",F02
+"Tea, average",F08
+"Tea, average",F12
+"Tea, average",F13
+"Tea, average",F15
+"Tea, average",F16
+"Tea, average",F17
+"Tea, average",F19
+"Tea, average",F20
+"Tea, average",F21
+"Tea, average",F22
+"Wheat, U.S., HRW",F02
+"Wheat, U.S., HRW",F04
+"Wheat, U.S., HRW",F08
+"Wheat, U.S., HRW",F12
+"Wheat, U.S., HRW",F13
+"Wheat, U.S., HRW",F15
+"Wheat, U.S., HRW",F16
+"Wheat, U.S., HRW",F19
+"Wheat, U.S., HRW",F20
+"Wheat, U.S., HRW",F21
+Aluminum,F02
+Aluminum,F04
+Aluminum,F12
+Aluminum,F15
+Aluminum,F16
+Aluminum,F19
+Aluminum,F20
+Aluminum,F21
+Gold,F02
+Gold,F04
+Gold,F12
+Gold,F13
+Gold,F16
+Gold,F17
+Gold,F19
+Gold,F20
+Gold,F21
+Gold,F22

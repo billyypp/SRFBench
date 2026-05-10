@@ -1,0 +1,19 @@
+{
+  "test_id": "r06",
+  "query": "Q3",
+  "scenario": "paper",
+  "system": "lotus",
+  "model_name": "gpt-5.4 + gpt-4o-mini",
+  "policy": "cascade(R/P=0.6)",
+  "cascade_recall_target": 0.6,
+  "cascade_precision_target": 0.6,
+  "execution_time": 135.18,
+  "llm_calls_total": 500,
+  "llm_calls_to_main_lm": 351,
+  "llm_calls_saved": 149,
+  "cost_usd": 0.248894,
+  "precision": 0.4667,
+  "recall": 0.6,
+  "f1_score": 0.525,
+  "row_count": 45
+}

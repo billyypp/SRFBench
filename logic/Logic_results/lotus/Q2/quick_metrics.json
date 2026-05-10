@@ -1,0 +1,16 @@
+{
+  "test_id": "quick",
+  "query": "Q2",
+  "scenario": "logic",
+  "system": "lotus",
+  "model_name": "gpt-5.4",
+  "policy": "method=quick",
+  "cascade_target": "quick",
+  "execution_time": 21.35,
+  "llm_calls_total": 124,
+  "cost_usd": 0.040572,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "row_count": 10
+}

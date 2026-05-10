@@ -1,0 +1,18 @@
+{
+  "test_id": "t1",
+  "query": "Q1",
+  "scenario": "logic",
+  "model_name": "gpt-5.4",
+  "policy": "approximate",
+  "cascade_recall_target": 0.8,
+  "cascade_precision_target": 0.8,
+  "execution_time": 191.67,
+  "llm_calls_total": 2600,
+  "llm_calls_to_main_lm": 1915,
+  "llm_calls_saved": 685,
+  "llm_calls_calibration": 546,
+  "precision": 0.8169,
+  "recall": 0.58,
+  "f1_score": 0.6784,
+  "row_count": 71
+}

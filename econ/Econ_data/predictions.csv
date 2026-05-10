@@ -1,0 +1,15 @@
+prediction_id,equilibrium_price_change,magnitude
+P01,equilibrium price increases,0-20%
+P02,equilibrium price increases,20-40%
+P03,equilibrium price increases,40-60%
+P04,equilibrium price increases,60-80%
+P05,equilibrium price increases,80-100%
+P06,equilibrium price increases,100%+
+P07,equilibrium price decreases,0-20%
+P08,equilibrium price decreases,20-40%
+P09,equilibrium price decreases,40-60%
+P10,equilibrium price decreases,60-80%
+P11,equilibrium price decreases,80-100%
+P12,equilibrium price decreases,100%+
+P13,equilibrium price does not change,0%
+P14,equilibrium price change is ambiguous,unknown

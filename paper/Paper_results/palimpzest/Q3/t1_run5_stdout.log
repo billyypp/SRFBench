@@ -1,0 +1,34 @@
+PATCHED: All models kept in frontier, no Pareto pruning
+[pz] Q3 paper | papers=500 gold=35
+
+╭───────────────────────────── Sample Allocation ──────────────────────────────╮
+│                                                                              │
+│  ⠋ MarshalAndScanDataOp (0-0e30377646) ━━━━━━━   0% 0/0     Cost: $0.0000    │
+│    LLMFilter (1-0c827de36f)            ━━━━━━━ 100% 108/100 Cost: $0.0000    │
+│  ⠋ ProjectOp (2-f5cdd8db6e)            ━━━━━━━   0% 0/0     Cost: $0.0000    │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────── Optimization Progress ────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│     ━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 108/100 0:00:33 0:00:00 Cost: $0.0000    │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯Total opt. time: 35.28s
+Total opt. cost: $0.0000
+
+  MarshalAndScanDataOp (706ba7fb60) ━━━━━ 100% 500/… 0:00… 0:00… Cost: $0.0000 
+  LLMFilter (1aa0e7803b)            ━━━━━ 100% 500/… 0:00… 0:00… Cost: $0.0000 
+  ProjectOp (fd5112a9a2)            ━━━━━   0% 0/0   0:00… -:--… Cost: $0.0000 
+Total time: 41.90s
+Total cost: $0.0000
+Traceback (most recent call last):
+  File "/mnt/e/Semantic Operators/SemBench/my_benchmark/paper/runner/pz_r_Q3_t1.py", line 75, in <module>
+    res = set(df["doc_id"].astype(str))
+              ~~^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/pandas/core/frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/littl/miniconda3/envs/sembench/lib/python3.12/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'doc_id'

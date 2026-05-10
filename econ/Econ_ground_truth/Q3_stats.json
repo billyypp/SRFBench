@@ -1,0 +1,15 @@
+{
+  "llm_calls_ranking1": 213,
+  "llm_calls_ranking2": 124,
+  "llm_calls_total": 337,
+  "lotus_stats_ranking1": {
+    "total_tokens": 32992,
+    "total_llm_calls": 213,
+    "explanations": {}
+  },
+  "lotus_stats_ranking2": {
+    "total_tokens": 19953,
+    "total_llm_calls": 124,
+    "explanations": {}
+  }
+}

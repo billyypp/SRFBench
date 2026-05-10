@@ -1,0 +1,16 @@
+{
+  "test_id": "heap",
+  "query": "Q2",
+  "scenario": "logic",
+  "system": "lotus",
+  "model_name": "gpt-5.4",
+  "policy": "method=heap",
+  "cascade_target": "heap",
+  "execution_time": 158.59,
+  "llm_calls_total": 214,
+  "cost_usd": 0.069524,
+  "precision": 0.9,
+  "recall": 0.9,
+  "f1_score": 0.9,
+  "row_count": 10
+}

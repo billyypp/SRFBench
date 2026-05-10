@@ -1,0 +1,25 @@
+factor_id,side,factor_description
+F01,supply,Supply increases because input prices decrease
+F02,supply,Supply decreases because input prices increase
+F03,supply,Supply increases because of technological improvement
+F04,supply,Supply decreases because of technological regression or disruption
+F05,supply,Supply increases because of favorable tax or subsidy changes
+F06,supply,Supply decreases because of unfavorable tax or subsidy changes
+F07,supply,Supply increases because of positive expectations
+F08,supply,Supply decreases because of negative expectations
+F09,supply,Supply increases because price of substitute in production rises
+F10,supply,Supply decreases because price of substitute in production falls
+F11,supply,Supply increases because new producers enter the market
+F12,supply,Supply decreases because producers exit the market
+F13,demand,Demand increases because population or number of consumers grows
+F14,demand,Demand decreases because population or number of consumers shrinks
+F15,demand,Demand increases because consumer income rises
+F16,demand,Demand decreases because consumer income falls
+F17,demand,Demand increases because of change in tastes favoring this commodity
+F18,demand,Demand decreases because of change in tastes away from this commodity
+F19,demand,Demand increases because of positive expectations
+F20,demand,Demand decreases because of negative expectations
+F21,demand,Demand increases because price of substitute good rises
+F22,demand,Demand decreases because price of substitute good falls
+F23,demand,Demand increases because price of complement good falls
+F24,demand,Demand decreases because price of complement good rises

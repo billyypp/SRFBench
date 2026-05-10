@@ -1,0 +1,26 @@
+/mnt/e/Semantic Operators/SemBench/my_benchmark/logic/runner/pz_r_Q2_t1.py:37: DeprecationWarning: we are renaming this function to `sem_map` and deprecating `sem_add_columns` in the next release of PZ. To update your code, simply change your calls from `.sem_add_columns(...)` to `.sem_map(...)`. The function arguments will stay the same.
+  ds = ds.sem_add_columns([
+PATCHED: All models kept in frontier, no Pareto pruning
+[pz] Q2 logic | statements=100 K=10 gold=10
+Using NAIVE PRIORS for operator sampling order
+
+╭───────────────────────────── Sample Allocation ──────────────────────────────╮
+│                                                                              │
+│  ⠋ MarshalAndScanDataOp (0-c083910a72) ━━━━━━━   0% 0/0     Cost: $0.0000    │
+│    LLMConvert (1-618671c519)           ━━━━━━━ 100% 108/100 Cost: $0.0419    │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+╭─────────────────────────── Optimization Progress ────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│     ━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 108/100 0:00:59 0:00:00 Cost: $0.0470    │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯Total opt. time: 63.91s
+Total opt. cost: $0.0419
+
+  MarshalAndScanDataOp (9d4e6b595b)   ━━━━━ 100% 100… 0:00… 0:0… Cost: $0.0000 
+  MixtureOfAgentsConvert (0b92ae5c8b) ━━━━━ 100% 100… 0:00… 0:0… Cost: $0.0136 
+Total time: 24.96s
+Total cost: $0.0136
+[pz] Q2 logic elapsed=89.21s cost=$0.0606 llm=200 P=0.1 R=0.1 F1=0.1

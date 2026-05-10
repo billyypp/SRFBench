@@ -1,0 +1,16 @@
+{
+  "test_id": "naive",
+  "query": "Q2",
+  "scenario": "logic",
+  "system": "lotus",
+  "model_name": "gpt-5.4",
+  "policy": "method=naive",
+  "cascade_target": "naive",
+  "execution_time": 714.37,
+  "llm_calls_total": 4950,
+  "cost_usd": 1.48203,
+  "precision": 0.9,
+  "recall": 0.9,
+  "f1_score": 0.9,
+  "row_count": 10
+}

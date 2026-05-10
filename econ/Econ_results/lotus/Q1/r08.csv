@@ -1,0 +1,16 @@
+commodity_name,factor_id
+Gold,F08
+Gold,F17
+Gold,F20
+Gold,F19
+Gold,F04
+Gold,F21
+Gold,F02
+"Crude oil, Brent",F17
+"Crude oil, Brent",F08
+"Crude oil, Brent",F04
+"Crude oil, Brent",F20
+"Crude oil, Brent",F02
+"Crude oil, Brent",F21
+"Crude oil, Brent",F12
+"Wheat, U.S., HRW",F17

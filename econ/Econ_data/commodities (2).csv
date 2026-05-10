@@ -1,0 +1,69 @@
+commodity_name,category
+"Coal, Australia",Energy
+"Coal, South Africa",Energy
+"Crude oil, average",Energy
+"Crude oil, Brent",Energy
+"Crude oil, Dubai",Energy
+"Crude oil, WTI",Energy
+"Natural gas, Index",Energy
+"Natural gas, Europe",Energy
+"Natural gas, U.S.",Energy
+"Liquefied natural gas, Japan",Energy
+Cocoa,Beverages
+"Coffee, Arabica",Beverages
+"Coffee, Robusta",Beverages
+"Tea, average",Beverages
+"Tea, Colombo",Beverages
+"Tea, Kolkata",Beverages
+"Tea, Mombasa",Beverages
+Coconut oil,Oils and Meals
+Fish meal,Oils and Meals
+Groundnuts,Oils and Meals
+Groundnut oil,Oils and Meals
+Palm oil,Oils and Meals
+Palmkernel oil,Oils and Meals
+Soybean meal,Oils and Meals
+Soybean oil,Oils and Meals
+Soybeans,Oils and Meals
+Barley,Grains
+Maize,Grains
+"Rice, Thailand 5%",Grains
+"Rice, Thailand 25%",Grains
+"Rice, Thailand A1",Grains
+"Rice, Vietnam 5%",Grains
+Sorghum,Grains
+"Wheat, U.S., HRW",Grains
+"Wheat, U.S., SRW",Grains
+"Bananas, EU",Other Food
+"Bananas, U.S.",Other Food
+Beef,Other Food
+Chicken,Other Food
+Lamb,Other Food
+Oranges,Other Food
+Shrimp,Other Food
+"Sugar, EU",Other Food
+"Sugar, U.S.",Other Food
+"Sugar, World",Other Food
+"Logs, Africa",Timber
+"Logs, S.E. Asia",Timber
+Plywood,Timber
+"Sawnwood, Africa",Timber
+"Sawnwood, S.E. Asia",Timber
+Cotton,Other Raw Materials
+"Rubber, RSS3",Other Raw Materials
+"Rubber, TSR20",Other Raw Materials
+DAP,Fertilizers
+Phosphate rock,Fertilizers
+Potassium chloride,Fertilizers
+TSP,Fertilizers
+"Urea, E. Europe",Fertilizers
+Aluminum,Metals and Minerals
+Copper,Metals and Minerals
+Iron ore,Metals and Minerals
+Lead,Metals and Minerals
+Nickel,Metals and Minerals
+Tin,Metals and Minerals
+Zinc,Metals and Minerals
+Gold,Precious Metals
+Platinum,Precious Metals
+Silver,Precious Metals

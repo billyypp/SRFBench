@@ -1,0 +1,25 @@
+{
+  "test_id": "gpt4omini",
+  "query": "Q1",
+  "event_id": "E08_test",
+  "system": "palimpzest",
+  "model_name": "openai/gpt-4o-mini-2024-07-18",
+  "policy": "MaxQuality",
+  "reasoning_effort": "low",
+  "constraints": {
+    "max_cost_usd": null,
+    "min_quality": null,
+    "f1_floor": null
+  },
+  "execution_time": 4.29,
+  "tokens": 68676,
+  "cost_usd": 0.010496,
+  "llm_calls_total": 144,
+  "llm_calls_saved": null,
+  "precision": 0.75,
+  "recall": 0.629,
+  "f1_score": 0.6842,
+  "row_count": 52,
+  "status": "success",
+  "flags": []
+}

@@ -1,0 +1,17 @@
+{
+  "test_id": "t1",
+  "query": "Q1",
+  "event_id": "E08",
+  "model_name": "gpt-5.4",
+  "cascade": "embedding (recall=0.8, precision=0.8)",
+  "execution_time": 342.83,
+  "llm_calls_total": 1632,
+  "llm_calls_to_main_lm": 1082,
+  "llm_calls_saved": 550,
+  "llm_calls_calibration": 394,
+  "cost_usd": 0.886,
+  "precision": 0.7845,
+  "recall": 0.625,
+  "f1_score": 0.6957,
+  "row_count": 427
+}

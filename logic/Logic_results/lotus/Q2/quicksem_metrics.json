@@ -1,0 +1,16 @@
+{
+  "test_id": "quicksem",
+  "query": "Q2",
+  "scenario": "logic",
+  "system": "lotus",
+  "model_name": "gpt-5.4",
+  "policy": "method=quick-sem",
+  "cascade_target": "quick-sem",
+  "execution_time": 24.44,
+  "llm_calls_total": 147,
+  "cost_usd": 0.044705,
+  "precision": 0.9,
+  "recall": 0.9,
+  "f1_score": 0.9,
+  "row_count": 10
+}

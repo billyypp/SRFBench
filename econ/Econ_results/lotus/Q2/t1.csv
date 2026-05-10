@@ -1,0 +1,11 @@
+commodity_name,factor_id,outcome_id,prediction_id
+Crude Oil,F04,EQ49,P02
+Crude Oil,F12,EQ49,P02
+Crude Oil,F02,EQ49,P02
+Crude Oil,F08,EQ49,P02
+Crude Oil,F13,EQ49,P02
+Crude Oil,F21,EQ49,P02
+Gold,F04,EQ49,P02
+Natural Gas,F04,EQ49,P06
+Natural Gas,F21,EQ49,P06
+Silver,F08,EQ49,P02

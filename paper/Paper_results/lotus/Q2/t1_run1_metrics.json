@@ -1,0 +1,18 @@
+{
+  "test_id": "t1",
+  "query": "Q2",
+  "scenario": "paper",
+  "model_name": "gpt-5.4",
+  "policy": "optimized",
+  "method": "quick-sem",
+  "execution_time": 49.82,
+  "llm_calls_total": 117,
+  "llm_calls_to_main_lm": 197,
+  "llm_calls_saved": -80,
+  "llm_calls_calibration": 0,
+  "cost_usd": 0.221344,
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1_score": 0.5,
+  "row_count": 10
+}

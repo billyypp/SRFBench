@@ -1,0 +1,13 @@
+{
+  "test_id": "ground",
+  "query": "Q1",
+  "scenario": "logic",
+  "model_name": "gpt-5.4",
+  "policy": "exact",
+  "execution_time": 376.04,
+  "llm_calls_total": 2600,
+  "precision": 0.7849,
+  "recall": 0.73,
+  "f1_score": 0.7565,
+  "row_count": 93
+}

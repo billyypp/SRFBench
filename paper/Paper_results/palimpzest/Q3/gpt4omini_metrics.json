@@ -1,0 +1,16 @@
+{
+  "test_id": "gpt4omini",
+  "query": "Q3",
+  "scenario": "paper",
+  "system": "palimpzest",
+  "model_name": "openai/gpt-4o-mini-2024-07-18",
+  "policy": "MaxQuality (single model)",
+  "execution_time": 11.79,
+  "llm_calls_total": 500,
+  "tokens": 324820,
+  "cost_usd": 0.049398,
+  "precision": 0.0978,
+  "recall": 0.8857,
+  "f1_score": 0.1761,
+  "row_count": 317
+}

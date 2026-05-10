@@ -1,0 +1,5 @@
+test_id,cascade_target,f1_score,precision,recall,cost_usd,llm_calls_total,execution_time
+naive,naive,0.9,0.9,0.9,1.48203,4950,714.37
+quick,quick,1.0,1.0,1.0,0.040572,124,21.35
+heap,heap,0.9,0.9,0.9,0.069524,214,158.59
+quicksem,quick-sem,0.9,0.9,0.9,0.044705,147,24.44

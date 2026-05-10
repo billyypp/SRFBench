@@ -1,0 +1,6 @@
+timeframe_id,timeframe
+T01,within days
+T02,within weeks
+T03,within months
+T04,within a year
+T05,more than a year

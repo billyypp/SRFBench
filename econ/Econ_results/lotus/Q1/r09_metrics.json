@@ -1,0 +1,26 @@
+{
+  "test_id": "r09",
+  "query": "Q1",
+  "event_id": "E08_test",
+  "system": "lotus",
+  "model_name": "gpt-5.4",
+  "policy": "cascade(R=0.9, P=0.9)",
+  "reasoning_effort": null,
+  "constraints": {
+    "recall_target": 0.9,
+    "precision_target": 0.9,
+    "max_cost_usd": null,
+    "f1_floor": null
+  },
+  "execution_time": 23.6,
+  "tokens": 20913,
+  "cost_usd": 0.067007,
+  "llm_calls_total": 144,
+  "llm_calls_saved": 18,
+  "precision": 0.8095,
+  "recall": 0.8226,
+  "f1_score": 0.816,
+  "row_count": 63,
+  "status": "success",
+  "flags": []
+}

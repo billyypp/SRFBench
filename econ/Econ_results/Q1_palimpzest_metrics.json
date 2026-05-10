@@ -1,0 +1,14 @@
+{
+  "system": "palimpzest",
+  "elapsed_s": 371.37,
+  "rows": 381,
+  "tokens": 663736,
+  "cost_usd": 0.493151,
+  "llm_calls_total": 0,
+  "llm_calls_to_main_lm": 0,
+  "llm_calls_saved": 0,
+  "llm_calls_calibration": 0,
+  "precision": 0.7034,
+  "recall": 0.5,
+  "f1": 0.5845
+}

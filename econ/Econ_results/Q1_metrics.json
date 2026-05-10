@@ -1,0 +1,22 @@
+{
+  "palimpzest": {
+    "system": "palimpzest",
+    "elapsed_s": 261.88,
+    "rows": 61,
+    "tokens": 500759,
+    "cost_usd": 0.15946,
+    "precision": 0.4098,
+    "recall": 0.0466,
+    "f1": 0.0838
+  },
+  "thalamusdb": {
+    "system": "thalamusdb",
+    "elapsed_s": 50.9,
+    "rows": 129,
+    "tokens": 7002,
+    "cost_usd": 0.003021,
+    "precision": 0.7984,
+    "recall": 0.1922,
+    "f1": 0.3098
+  }
+}

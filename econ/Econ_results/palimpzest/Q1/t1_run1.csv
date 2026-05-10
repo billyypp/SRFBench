@@ -1,0 +1,424 @@
+commodity_name,factor_id_right
+Cotton,F08
+Maize,F16
+Silver,F02
+Aluminum,F06
+"Tea, Colombo",F16
+"Coffee, Robusta",F02
+Platinum,F02
+TSP,F08
+Maize,F01
+Plywood,F06
+Fish meal,F08
+Aluminum,F14
+Aluminum,F08
+Maize,F17
+"Crude oil, Brent",F08
+"Natural gas, Europe",F19
+Silver,F16
+"Sugar, EU",F20
+Maize,F02
+Silver,F17
+Oranges,F08
+Lead,F06
+"Bananas, U.S.",F20
+"Bananas, EU",F20
+"Tea, average",F04
+DAP,F12
+DAP,F04
+"Tea, average",F08
+"Natural gas, Europe",F02
+Oranges,F02
+DAP,F20
+"Coffee, Robusta",F08
+"Natural gas, Europe",F12
+Shrimp,F13
+"Sugar, U.S.",F16
+"Natural gas, Index",F16
+DAP,F16
+"Sawnwood, S.E. Asia",F16
+Lamb,F20
+"Sawnwood, Africa",F08
+Shrimp,F20
+"Sugar, World",F16
+"Sugar, EU",F04
+Plywood,F14
+"Natural gas, Index",F19
+Nickel,F04
+DAP,F08
+Sorghum,F20
+Gold,F19
+Sorghum,F08
+Copper,F19
+Plywood,F08
+Tin,F04
+"Sugar, U.S.",F20
+"Natural gas, U.S.",F08
+DAP,F02
+Soybean meal,F12
+Plywood,F04
+Fish meal,F06
+Sorghum,F14
+"Bananas, EU",F02
+DAP,F19
+Cotton,F16
+"Tea, Colombo",F02
+DAP,F21
+"Natural gas, U.S.",F19
+"Rice, Thailand A1",F04
+Tin,F02
+"Bananas, EU",F04
+Nickel,F08
+Potassium chloride,F16
+Shrimp,F22
+"Natural gas, U.S.",F02
+"Sawnwood, S.E. Asia",F02
+Cotton,F04
+Beef,F18
+Potassium chloride,F12
+"Bananas, EU",F16
+Oranges,F04
+Zinc,F04
+Beef,F08
+Potassium chloride,F04
+Silver,F08
+"Logs, Africa",F02
+Aluminum,F20
+Lamb,F04
+Plywood,F12
+"Bananas, U.S.",F04
+Potassium chloride,F20
+Lamb,F21
+Zinc,F16
+Gold,F02
+Aluminum,F19
+Plywood,F20
+Potassium chloride,F02
+"Sawnwood, Africa",F02
+Nickel,F16
+Potassium chloride,F08
+"Crude oil, Brent",F22
+Lamb,F16
+Sorghum,F16
+Aluminum,F04
+TSP,F02
+"Coal, Australia",F20
+Soybean meal,F20
+"Coal, Australia",F04
+"Natural gas, Europe",F16
+"Crude oil, Brent",F02
+Silver,F06
+Beef,F04
+TSP,F06
+"Logs, Africa",F04
+"Sugar, EU",F21
+Sorghum,F10
+"Coal, Australia",F16
+"Coffee, Robusta",F16
+Coconut oil,F16
+"Coal, Australia",F02
+Oranges,F20
+"Tea, average",F02
+Aluminum,F16
+"Coal, Australia",F21
+"Bananas, U.S.",F16
+Sorghum,F19
+"Crude oil, Brent",F10
+TSP,F04
+"Coal, Australia",F19
+Aluminum,F02
+Cotton,F06
+"Natural gas, Europe",F24
+"Coal, Australia",F13
+Beef,F21
+Cotton,F02
+Nickel,F02
+"Bananas, EU",F08
+TSP,F12
+"Crude oil, WTI",F04
+Coconut oil,F02
+TSP,F20
+TSP,F14
+"Crude oil, WTI",F02
+"Sugar, World",F08
+Cotton,F20
+Shrimp,F21
+"Rice, Thailand A1",F08
+"Crude oil, WTI",F16
+TSP,F15
+Cotton,F15
+"Crude oil, WTI",F12
+Beef,F16
+"Sugar, U.S.",F04
+"Coffee, Robusta",F04
+"Natural gas, Index",F21
+"Crude oil, Brent",F04
+"Crude oil, Brent",F20
+Oranges,F22
+"Tea, Colombo",F20
+"Crude oil, WTI",F20
+"Logs, Africa",F16
+"Sugar, World",F02
+"Natural gas, Index",F20
+"Crude oil, WTI",F08
+Silver,F04
+"Sugar, World",F22
+"Rice, Thailand 25%",F04
+Zinc,F12
+"Crude oil, WTI",F15
+"Natural gas, Europe",F14
+Aluminum,F12
+"Natural gas, Europe",F20
+"Natural gas, Index",F10
+Palm oil,F04
+"Sugar, EU",F02
+"Crude oil, Brent",F13
+Sorghum,F02
+Shrimp,F08
+TSP,F17
+"Natural gas, U.S.",F16
+Coconut oil,F08
+Beef,F20
+"Natural gas, Index",F22
+Palm oil,F16
+Shrimp,F04
+"Natural gas, Europe",F15
+Fish meal,F02
+Copper,F02
+Shrimp,F02
+Palm oil,F21
+"Natural gas, Europe",F04
+"Natural gas, Index",F12
+Fish meal,F04
+"Sawnwood, Africa",F20
+"Sugar, U.S.",F08
+"Crude oil, WTI",F06
+"Natural gas, Index",F02
+"Sugar, World",F20
+Coconut oil,F20
+Palm oil,F02
+"Coffee, Robusta",F12
+"Rice, Thailand 25%",F09
+"Bananas, U.S.",F02
+"Crude oil, Brent",F16
+"Coffee, Robusta",F20
+"Sawnwood, Africa",F04
+"Natural gas, Index",F08
+Palm oil,F20
+"Coffee, Robusta",F06
+Silver,F20
+"Sugar, EU",F16
+"Natural gas, Europe",F10
+"Natural gas, Europe",F08
+Oranges,F16
+Fish meal,F20
+Lead,F04
+Plywood,F02
+"Tea, average",F16
+Copper,F06
+Shrimp,F12
+"Sugar, World",F04
+Zinc,F02
+Lead,F20
+Oranges,F19
+Zinc,F08
+"Sugar, U.S.",F02
+Nickel,F20
+Lead,F12
+"Sugar, EU",F08
+"Crude oil, Brent",F12
+Zinc,F20
+Copper,F08
+"Sawnwood, S.E. Asia",F20
+"Tea, average",F20
+Lead,F16
+Lead,F08
+"Rice, Thailand 25%",F16
+"Sawnwood, Africa",F16
+"Rice, Thailand A1",F21
+Zinc,F15
+Coconut oil,F04
+Shrimp,F16
+Lead,F02
+"Rice, Thailand A1",F16
+Phosphate rock,F21
+"Liquefied natural gas, Japan",F21
+Groundnut oil,F04
+"Liquefied natural gas, Japan",F20
+"Crude oil, Dubai",F06
+Palmkernel oil,F16
+Tin,F20
+Copper,F16
+Tin,F16
+"Tea, Mombasa",F08
+Tin,F08
+Tin,F06
+Cocoa,F20
+"Urea, E. Europe",F08
+"Crude oil, average",F08
+"Wheat, U.S., SRW",F02
+"Logs, S.E. Asia",F16
+Platinum,F16
+"Logs, S.E. Asia",F20
+"Crude oil, average",F02
+Gold,F04
+Chicken,F04
+Cocoa,F08
+Lamb,F08
+"Wheat, U.S., SRW",F19
+Iron ore,F16
+Soybean oil,F08
+Barley,F16
+"Urea, E. Europe",F02
+"Rice, Vietnam 5%",F02
+"Wheat, U.S., SRW",F20
+Iron ore,F04
+"Crude oil, Dubai",F21
+"Wheat, U.S., SRW",F16
+"Rubber, RSS3",F02
+"Urea, E. Europe",F10
+Iron ore,F08
+"Rubber, TSR20",F08
+Soybean oil,F12
+"Tea, Kolkata",F20
+Palmkernel oil,F21
+Iron ore,F20
+"Rubber, RSS3",F04
+"Liquefied natural gas, Japan",F08
+"Rubber, TSR20",F04
+Iron ore,F02
+Soybean meal,F04
+"Natural gas, U.S.",F06
+"Urea, E. Europe",F16
+Iron ore,F12
+"Tea, Kolkata",F02
+"Wheat, U.S., SRW",F08
+Chicken,F16
+Iron ore,F21
+"Urea, E. Europe",F04
+Soybean oil,F02
+"Crude oil, Dubai",F04
+"Rubber, TSR20",F16
+Soybeans,F04
+"Natural gas, U.S.",F21
+"Rice, Vietnam 5%",F21
+"Rubber, RSS3",F20
+Soybean oil,F16
+Soybeans,F20
+Groundnut oil,F16
+"Crude oil, Dubai",F20
+Soybeans,F12
+Soybean oil,F19
+Chicken,F08
+Phosphate rock,F19
+Soybeans,F08
+"Crude oil, average",F21
+Phosphate rock,F20
+Soybeans,F16
+Lamb,F02
+Palmkernel oil,F20
+Chicken,F06
+Soybean meal,F02
+"Natural gas, U.S.",F20
+"Urea, E. Europe",F20
+"Crude oil, Dubai",F16
+Soybeans,F02
+Cocoa,F16
+Groundnut oil,F06
+Cocoa,F04
+Platinum,F08
+"Tea, Mombasa",F16
+Cocoa,F02
+Groundnut oil,F02
+"Coal, South Africa",F16
+Lead,F13
+"Crude oil, Dubai",F08
+"Tea, Mombasa",F20
+Soybeans,F13
+"Rice, Vietnam 5%",F22
+"Wheat, U.S., SRW",F12
+"Rice, Thailand 5%",F20
+"Crude oil, Dubai",F12
+"Coal, South Africa",F21
+Gold,F16
+Barley,F12
+"Coal, South Africa",F20
+"Rice, Thailand A1",F13
+Chicken,F22
+Chicken,F02
+"Coal, South Africa",F02
+Soybean oil,F20
+"Coal, South Africa",F08
+"Rice, Thailand 5%",F08
+Copper,F20
+"Coal, South Africa",F19
+Groundnut oil,F20
+"Rice, Vietnam 5%",F20
+"Natural gas, U.S.",F12
+"Rice, Thailand 5%",F04
+"Liquefied natural gas, Japan",F19
+"Coal, South Africa",F13
+"Wheat, U.S., SRW",F04
+"Rubber, RSS3",F16
+Copper,F12
+"Coffee, Arabica",F04
+Copper,F04
+"Rubber, TSR20",F20
+Fish meal,F16
+Chicken,F13
+Soybean oil,F04
+"Coffee, Arabica",F20
+"Coffee, Arabica",F16
+Lamb,F06
+"Rice, Thailand A1",F20
+Phosphate rock,F02
+Platinum,F20
+"Coffee, Arabica",F02
+"Urea, E. Europe",F12
+Platinum,F04
+"Rice, Vietnam 5%",F16
+"Wheat, U.S., SRW",F09
+"Crude oil, average",F20
+Barley,F08
+"Urea, E. Europe",F06
+"Rice, Vietnam 5%",F08
+"Coffee, Arabica",F08
+"Tea, Kolkata",F16
+"Natural gas, U.S.",F04
+"Coffee, Arabica",F13
+"Crude oil, average",F16
+Soybean oil,F13
+Groundnuts,F04
+"Rubber, RSS3",F12
+Soybean meal,F13
+Groundnuts,F20
+Plywood,F16
+Phosphate rock,F13
+Groundnuts,F16
+Phosphate rock,F16
+"Rice, Thailand 5%",F16
+Soybean meal,F16
+Palmkernel oil,F04
+"Liquefied natural gas, Japan",F02
+"Crude oil, average",F04
+Groundnuts,F08
+"Tea, Mombasa",F02
+Barley,F06
+Groundnuts,F06
+"Rice, Vietnam 5%",F13
+Maize,F20
+Soybean oil,F15
+Maize,F04
+Chicken,F20
+"Liquefied natural gas, Japan",F16
+"Natural gas, U.S.",F24
+Maize,F12
+Palmkernel oil,F02
+Maize,F06
+Groundnut oil,F08
+"Natural gas, Index",F04
+Phosphate rock,F08
+Phosphate rock,F04
+Maize,F08
+Phosphate rock,F09
+Chicken,F09

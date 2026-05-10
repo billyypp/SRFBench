@@ -1,0 +1,18 @@
+{
+  "test_id": "t1",
+  "query": "Q3",
+  "event_id": "none",
+  "model_name": "gpt-5.4",
+  "policy": "optimized",
+  "method": "quick-sem",
+  "execution_time": 78.8,
+  "llm_calls_total": 337,
+  "llm_calls_to_main_lm": 347,
+  "llm_calls_saved": -10,
+  "llm_calls_calibration": 0,
+  "cost_usd": 0.208,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "row_count": 5
+}

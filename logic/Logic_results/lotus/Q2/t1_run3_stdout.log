@@ -1,0 +1,21 @@
+2026-04-26 12:39:19,627 - INFO - Use pytorch device_name: cuda
+2026-04-26 12:39:19,628 - INFO - Load pretrained SentenceTransformer: intfloat/e5-base-v2
+2026-04-26 12:39:21,002 - WARNING - Do not reset the dataframe index to ensure proper functionality of get_vectors_from_index
+[t1] Logic Q2 | approximate (method=quick-sem)
+Statements: 100, K=10
+
+  0%|          | 0/2 [00:00<?, ?it/s] 50%|█████     | 1/2 [00:00<00:00,  3.38it/s]100%|██████████| 2/2 [00:00<00:00,  5.73it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 75.54it/s]
+Quicksort comparisons:   0%|          | 0/99 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 99/99 LM calls [00:15<00:00]Quicksort comparisons: 100%|██████████| 99/99 LM calls [00:15<00:00]
+Quicksort comparisons:   0%|          | 0/22 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 22/22 LM calls [00:03<00:00]Quicksort comparisons: 100%|██████████| 22/22 LM calls [00:03<00:00]
+Quicksort comparisons:   0%|          | 0/7 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 7/7 LM calls [00:01<00:00]Quicksort comparisons: 100%|██████████| 7/7 LM calls [00:01<00:00]
+Quicksort comparisons:   0%|          | 0/5 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 5/5 LM calls [00:00<00:00]Quicksort comparisons: 100%|██████████| 5/5 LM calls [00:00<00:00]
+Quicksort comparisons:   0%|          | 0/1 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 1/1 LM calls [00:00<00:00]Quicksort comparisons: 100%|██████████| 1/1 LM calls [00:00<00:00]
+Quicksort comparisons:   0%|          | 0/2 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 2/2 LM calls [00:22<00:00]Quicksort comparisons: 100%|██████████| 2/2 LM calls [00:22<00:00]
+Quicksort comparisons:   0%|          | 0/13 LM calls [00:00<?]Quicksort comparisons: 100%|██████████| 13/13 LM calls [00:02<00:00]Quicksort comparisons: 100%|██████████| 13/13 LM calls [00:02<00:00]
+  -> top 10
+  stats: {'total_tokens': 30524, 'total_llm_calls': 149, 'explanations': {}}
+
+P=0.9  R=0.9  F1=0.9
+  Oracle calls: 127 | Optimized calls: 149 | Saved: -22
+Saved -> my_benchmark/logic/results/lotus/Q2/t1.csv (47.29s)
