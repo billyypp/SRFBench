@@ -4,6 +4,8 @@ This repository contains the code, data, ground-truth files, experiment outputs,
 
 **SRFBench: A Reasoning-First Benchmark for Semantic Operators**
 
+## Query Number
+For Econ dataset, the Query 3 in the code base is refering to Query 2 in the paper, and Query 5 in the code base is refering to Query 3 in the paper.
 
 ## Important Reproduction Note
 
